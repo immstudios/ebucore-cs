@@ -113,17 +113,6 @@
       <ValidityFlag>1</ValidityFlag>
    </Term>
 
-   
-   <Term termID="hy">
-      <Name xml:lang="en">Armenian</Name>
-      <Name xml:lang="fr">armenien</Name>
-      <Reference>ISO 639-1</Reference>
-      <ChangeComment>First version after conversion of P/META into XML. First version date is
-         version date from ISO</ChangeComment>
-      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
-      <FirstVersiondate>2007-04-12</FirstVersiondate>
-      <ValidityFlag>1</ValidityFlag>
-   </Term>
 
    
    <Term termID="as">
@@ -318,17 +307,6 @@
       <ValidityFlag>1</ValidityFlag>
    </Term>
 
-   
-   <Term termID="my">
-      <Name xml:lang="en">Burmese</Name>
-      <Name xml:lang="fr">birman</Name>
-      <Reference>ISO 639-1</Reference>
-      <ChangeComment>First version after conversion of P/META into XML. First version date is
-         version date from ISO</ChangeComment>
-      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
-      <FirstVersiondate>2007-04-12</FirstVersiondate>
-      <ValidityFlag>1</ValidityFlag>
-   </Term>
 
    
    <Term termID="ca">
@@ -465,19 +443,7 @@
       <ValidityFlag>1</ValidityFlag>
    </Term>
 
-   
-   <Term termID="cs">
-      <Name xml:lang="en">Czech</Name>
-      <Name xml:lang="fr">tcheque</Name>
-      <Reference>ISO 639-1</Reference>
-      <ChangeComment>First version after conversion of P/META into XML. First version date is
-         version date from ISO</ChangeComment>
-      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
-      <FirstVersiondate>2007-04-12</FirstVersiondate>
-      <ValidityFlag>1</ValidityFlag>
-   </Term>
 
-   
    <Term termID="da">
       <Name xml:lang="en">Danish</Name>
       <Name xml:lang="fr">danois</Name>
@@ -489,17 +455,6 @@
       <ValidityFlag>1</ValidityFlag>
    </Term>
 
-   
-   <Term termID="de">
-      <Name xml:lang="en">German</Name>
-      <Name xml:lang="fr">allemand</Name>
-      <Reference>ISO 639-1</Reference>
-      <ChangeComment>First version after conversion of P/META into XML. First version date is
-         version date from ISO</ChangeComment>
-      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
-      <FirstVersiondate>2007-04-12</FirstVersiondate>
-      <ValidityFlag>1</ValidityFlag>
-   </Term>
 
    
    <Term termID="dv">
@@ -513,17 +468,6 @@
       <ValidityFlag>1</ValidityFlag>
    </Term>
 
-   
-   <Term termID="nl">
-      <Name xml:lang="en">Dutch; Flemish</Name>
-      <Name xml:lang="fr">neerlandais; flamand</Name>
-      <Reference>ISO 639-1</Reference>
-      <ChangeComment>First version after conversion of P/META into XML. First version date is
-         version date from ISO</ChangeComment>
-      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
-      <FirstVersiondate>2007-04-12</FirstVersiondate>
-      <ValidityFlag>1</ValidityFlag>
-   </Term>
 
    
    <Term termID="dz">
@@ -537,17 +481,6 @@
       <ValidityFlag>1</ValidityFlag>
    </Term>
 
-   
-   <Term termID="el">
-      <Name xml:lang="en">Greek, Modern (1453-)</Name>
-      <Name xml:lang="fr">grec moderne (apres 1453)</Name>
-      <Reference>ISO 639-1</Reference>
-      <ChangeComment>First version after conversion of P/META into XML. First version date is
-         version date from ISO</ChangeComment>
-      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
-      <FirstVersiondate>2007-04-12</FirstVersiondate>
-      <ValidityFlag>1</ValidityFlag>
-   </Term>
 
    
    <Term termID="en">
@@ -585,17 +518,6 @@
       <ValidityFlag>1</ValidityFlag>
    </Term>
 
-   
-   <Term termID="eu">
-      <Name xml:lang="en">Basque</Name>
-      <Name xml:lang="fr">basque</Name>
-      <Reference>ISO 639-1</Reference>
-      <ChangeComment>First version after conversion of P/META into XML. First version date is
-         version date from ISO</ChangeComment>
-      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
-      <FirstVersiondate>2007-04-12</FirstVersiondate>
-      <ValidityFlag>1</ValidityFlag>
-   </Term>
 
    
    <Term termID="ee">
@@ -694,17 +616,6 @@
       <ValidityFlag>1</ValidityFlag>
    </Term>
 
-   
-   <Term termID="ka">
-      <Name xml:lang="en">Georgian</Name>
-      <Name xml:lang="fr">georgien</Name>
-      <Reference>ISO 639-1</Reference>
-      <ChangeComment>First version after conversion of P/META into XML. First version date is
-         version date from ISO</ChangeComment>
-      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
-      <FirstVersiondate>2007-04-12</FirstVersiondate>
-      <ValidityFlag>1</ValidityFlag>
-   </Term>
 
    
    <Term termID="de">
@@ -1024,17 +935,6 @@
       <ValidityFlag>1</ValidityFlag>
    </Term>
 
-   
-   <Term termID="is">
-      <Name xml:lang="en">Icelandic</Name>
-      <Name xml:lang="fr">islandais</Name>
-      <Reference>ISO 639-1</Reference>
-      <ChangeComment>First version after conversion of P/META into XML. First version date is
-         version date from ISO</ChangeComment>
-      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
-      <FirstVersiondate>2007-04-12</FirstVersiondate>
-      <ValidityFlag>1</ValidityFlag>
-   </Term>
 
    
    <Term termID="it">
@@ -1422,29 +1322,7 @@
       <ValidityFlag>1</ValidityFlag>
    </Term>
 
-   
-   <Term termID="ms">
-      <Name xml:lang="en">Malay</Name>
-      <Name xml:lang="fr">malais</Name>
-      <Reference>ISO 639-1</Reference>
-      <ChangeComment>First version after conversion of P/META into XML. First version date is
-         version date from ISO</ChangeComment>
-      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
-      <FirstVersiondate>2007-04-12</FirstVersiondate>
-      <ValidityFlag>1</ValidityFlag>
-   </Term>
 
-   
-   <Term termID="mk">
-      <Name xml:lang="en">Macedonian</Name>
-      <Name xml:lang="fr">macedonien</Name>
-      <Reference>ISO 639-1</Reference>
-      <ChangeComment>First version after conversion of P/META into XML. First version date is
-         version date from ISO</ChangeComment>
-      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
-      <FirstVersiondate>2007-04-12</FirstVersiondate>
-      <ValidityFlag>1</ValidityFlag>
-   </Term>
 
    
    <Term termID="mg">
@@ -1494,17 +1372,6 @@
       <ValidityFlag>1</ValidityFlag>
    </Term>
 
-   
-   <Term termID="mi">
-      <Name xml:lang="en">Maori</Name>
-      <Name xml:lang="fr">maori</Name>
-      <Reference>ISO 639-1</Reference>
-      <ChangeComment>First version after conversion of P/META into XML. First version date is
-         version date from ISO</ChangeComment>
-      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
-      <FirstVersiondate>2007-04-12</FirstVersiondate>
-      <ValidityFlag>1</ValidityFlag>
-   </Term>
 
    
    <Term termID="ms">
@@ -1734,17 +1601,6 @@
       <ValidityFlag>1</ValidityFlag>
    </Term>
 
-   
-   <Term termID="fa">
-      <Name xml:lang="en">Persian</Name>
-      <Name xml:lang="fr">persan</Name>
-      <Reference>ISO 639-1</Reference>
-      <ChangeComment>First version after conversion of P/META into XML. First version date is
-         version date from ISO</ChangeComment>
-      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
-      <FirstVersiondate>2007-04-12</FirstVersiondate>
-      <ValidityFlag>1</ValidityFlag>
-   </Term>
 
    
    <Term termID="pi">
@@ -1831,18 +1687,6 @@
    </Term>
 
    
-   <Term termID="ro">
-      <Name xml:lang="en">Romanian</Name>
-      <Name xml:lang="fr">roumain</Name>
-      <Reference>ISO 639-1</Reference>
-      <ChangeComment>First version after conversion of P/META into XML. First version date is
-         version date from ISO</ChangeComment>
-      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
-      <FirstVersiondate>2007-04-12</FirstVersiondate>
-      <ValidityFlag>1</ValidityFlag>
-   </Term>
-
-   
    <Term termID="rn">
       <Name xml:lang="en">Rundi</Name>
       <Name xml:lang="fr">rundi</Name>
@@ -1893,30 +1737,6 @@
 
 
    
-   <Term termID="sr">
-      <Name xml:lang="en">Serbian</Name>
-      <Name xml:lang="fr">serbe</Name>
-      <Reference>ISO 639-1</Reference>
-      <ChangeComment>First version after conversion of P/META into XML. First version date is
-         version date from ISO</ChangeComment>
-      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
-      <FirstVersiondate>2007-04-12</FirstVersiondate>
-      <ValidityFlag>1</ValidityFlag>
-   </Term>
-
-   
-   <Term termID="hr">
-      <Name xml:lang="en">Croatian</Name>
-      <Name xml:lang="fr">croate</Name>
-      <Reference>ISO 639-1</Reference>
-      <ChangeComment>First version after conversion of P/META into XML. First version date is
-         version date from ISO</ChangeComment>
-      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
-      <FirstVersiondate>2007-04-12</FirstVersiondate>
-      <ValidityFlag>1</ValidityFlag>
-   </Term>
-
-   
    <Term termID="si">
       <Name xml:lang="en">Sinhala; Sinhalese</Name>
       <Name xml:lang="fr">singhalais</Name>
@@ -1929,17 +1749,6 @@
    </Term>
 
    
-   <Term termID="sk">
-      <Name xml:lang="en">Slovak</Name>
-      <Name xml:lang="fr">slovaque</Name>
-      <Reference>ISO 639-1</Reference>
-      <ChangeComment>First version after conversion of P/META into XML. First version date is
-         version date from ISO</ChangeComment>
-      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
-      <FirstVersiondate>2007-04-12</FirstVersiondate>
-      <ValidityFlag>1</ValidityFlag>
-   </Term>
-
    
    <Term termID="sk">
       <Name xml:lang="en">Slovak</Name>
@@ -2048,19 +1857,7 @@
       <ValidityFlag>1</ValidityFlag>
    </Term>
 
-   
-   <Term termID="sq">
-      <Name xml:lang="en">Albanian</Name>
-      <Name xml:lang="fr">albanais</Name>
-      <Reference>ISO 639-1</Reference>
-      <ChangeComment>First version after conversion of P/META into XML. First version date is
-         version date from ISO</ChangeComment>
-      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
-      <FirstVersiondate>2007-04-12</FirstVersiondate>
-      <ValidityFlag>1</ValidityFlag>
-   </Term>
 
-   
    <Term termID="sc">
       <Name xml:lang="en">Sardinian</Name>
       <Name xml:lang="fr">sarde</Name>
@@ -2217,17 +2014,6 @@
    </Term>
 
    
-   <Term termID="bo">
-      <Name xml:lang="en">Tibetan</Name>
-      <Name xml:lang="fr">tibetain</Name>
-      <Reference>ISO 639-1</Reference>
-      <ChangeComment>First version after conversion of P/META into XML. First version date is
-         version date from ISO</ChangeComment>
-      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
-      <FirstVersiondate>2007-04-12</FirstVersiondate>
-      <ValidityFlag>1</ValidityFlag>
-   </Term>
-
    
    <Term termID="ti">
       <Name xml:lang="en">Tigrinya</Name>
