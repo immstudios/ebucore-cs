@@ -11200,9 +11200,9 @@
             <Name xml:lang="en">Outdoor hunting</Name>
             <Definition xml:lang="en"/>
             <Reference/>
-            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+            <ChangeComment>Removed duplicate term</ChangeComment>
             <ChangeVersionDate>2007-04-12</ChangeVersionDate>
-            <ValidityFlag>1</ValidityFlag>
+            <ValidityFlag>0</ValidityFlag>
          </Term>
          <Term termID="3.8.9.4">
             <Name xml:lang="en">Casino and gambling</Name>
