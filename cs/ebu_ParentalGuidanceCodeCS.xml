@@ -2598,28 +2598,28 @@ Definition: This is a list of classification schemes used for content alert and 
       <ChangeVersionDate>03.08.2010</ChangeVersionDate>
       <ValidityFlag>1</ValidityFlag>
       <DeprecatedVersionDate/>
-      <Term termID="18.1">
+      <Term termID="52.1">
          <Name xml:lang="de">ALL AGES</Name>
          <Definition xml:lang="en">For all ages</Definition>
          <Definition xml:lang="de">Ohne AltersbeschrÃ¤nkung</Definition>
       </Term>
-      <Term termID="18.2">
+      <Term termID="52.2">
          <Name xml:lang="de">6+</Name>
          <Definition xml:lang="en">No one under 6 years admitted</Definition>
          <Definition xml:lang="de">Freigegeben ab 6 Jahren</Definition>
       </Term>
-      <Term termID="18.3">
+      <Term termID="52.3">
          <Name xml:lang="de">12+</Name>
          <Definition xml:lang="en">People 12 or older admitted, children between 6 and 11 only
             when accompanied by parent or legal guardian</Definition>
          <Definition xml:lang="de">Freigegeben ab 12 Jahren</Definition>
       </Term>
-      <Term termID="18.4">
+      <Term termID="52.4">
          <Name xml:lang="de">16+</Name>
          <Definition xml:lang="en">People 16 or older admitted</Definition>
          <Definition xml:lang="de">Freigegeben ab 16 Jahren</Definition>
       </Term>
-      <Term termID="18.5">
+      <Term termID="52.5">
          <Name xml:lang="de">18+</Name>
          <Definition xml:lang="en">"No youth admitted", only adults</Definition>
          <Definition xml:lang="de">Keine Jugendfreigabe</Definition>
@@ -2723,7 +2723,7 @@ Definition: This is a list of classification schemes used for content alert and 
             <Name xml:lang="en">14</Name>
             <Definition xml:lang="en">Passed only for 14 and older </Definition>
          </Term>
-         <Term termID="54.1.5">
+         <Term termID="55.1.5">
             <Name xml:lang="en">16</Name>
             <Definition xml:lang="en">Passed only for 16 and older </Definition>
          </Term>
@@ -3119,24 +3119,24 @@ Definition: This is a list of classification schemes used for content alert and 
             <Definition xml:lang="en">Suitable for general audiences
             </Definition>
          </Term>
-         <Term termID="65.1.2">
+         <Term termID="66.1.2">
             <Name xml:lang="en">PG-13</Name>
             <Definition xml:lang="en">Under 13 not admitted unless accompanied by an individual over 13. Some material may not be suitable for children
             </Definition>
          </Term>
-         <Term termID="65.1.3">
+         <Term termID="66.1.3">
             <Name xml:lang="en">PG15</Name>
             <Definition xml:lang="en">Under 15 not admitted unless accompanied by an individual over 15. Some material may not be suitable for children
             </Definition>
          </Term>
-         <Term termID="65.1.4">
+         <Term termID="66.1.4">
             <Name xml:lang="en">15+</Name>
-            <Definition xml:lang="en">No one under the age of 15 admitted  
+            <Definition xml:lang="en">No one under the age of 15 admitted
             </Definition>
          </Term>
-         <Term termID="65.1.5">
+         <Term termID="66.1.5">
             <Name xml:lang="en">18+</Name>
-            <Definition xml:lang="en">No one under the age of 18 admitted  
+            <Definition xml:lang="en">No one under the age of 18 admitted
             </Definition>
          </Term>
       </Term>
