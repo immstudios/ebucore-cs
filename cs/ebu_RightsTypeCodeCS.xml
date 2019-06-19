@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ClassificationScheme uri="urn:ebu:metadata-cs:RightTypeCodeCS" versionDate="2013-01-07">
+
+   <!-- #####################################################################
+	     RIGHT TYPE CODE                                                        
+	     Definition: 
+	     
+	     The following Creative Commons Rights apply to the use of this EBU resource:
+	     http://creativecommons.org/licenses/by-sa/3.0/
+	     
+	     Owner: EBU Technical Department
+	     Author: Jean-Pierre Evain
+	     Contact: evain@ebu.ch
+	     
+	     ##################################################################### -->
+   
+   <Alias>EBURightTypeCode</Alias>
+   
+   <Term termID="1">
+      <Name xml:lang="en">Derivation</Name>
+      <Definition xml:lang="en">Indicates that the licensee gets the rights to produce editorial works, not only audiovisual, freely inspired by the content of the material being exchanged. Examples could be the derivation of books from drama or fiction programmes, or the production of a sequel of a movie</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate/>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="2">
+      <Name xml:lang="en">Merchandising</Name>
+      <Definition xml:lang="en">Indicates that the licensee gets the right to produce or to commit to produce things like artworks, gadgets, drawings, illustrations, banners, clothes etc. for commercial purposes and with a clear or explicit reference to the editorial content of the material being exchanged</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate/>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="3">
+      <Name xml:lang="en">Partial Ownership</Name>
+      <Definition xml:lang="en">Indicates that the licensee receives partial ownership rights for the material being exchanged. The ownership quota is not specified</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate/>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="4">
+      <Name xml:lang="en">Publication</Name>
+      <Definition xml:lang="en">Indicates that the licensee gets the rights to publish the material without changing the original editorial form of the material</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate/>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="5">
+      <Name xml:lang="en">Total Ownership</Name>
+      <Definition xml:lang="en">Indicates that the licensee receives full ownership rights for the material being exchanged</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate/>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="6">
+      <Name xml:lang="en">Use</Name>
+      <Definition xml:lang="en">Indicates that the licensee gets the rights to use portions of the material in order to produce other programmes or programme items. Examples of this may be the insertion of clips, images or pieces of music into other productions</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate/>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+   <Term termID="7">
+      <Name xml:lang="en">Versionning</Name>
+      <Definition xml:lang="en">Indicates that the licensee gets the rights to produce, and then publish, editorial versions of the material slightly different from that being exchanged. Examples could be the production of a version with sound dubbed in another language or with close-caption subtitles or with the cut of some scenes</Definition>
+      <Reference/>
+      <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+      <ChangeVersionDate/>
+      <FirstVersiondate>2007-04-12</FirstVersiondate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+</ClassificationScheme>
