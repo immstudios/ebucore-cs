@@ -2089,7 +2089,7 @@ Definition: This is a list of classification schemes used for content alert and 
 	
    
    <Term termID="44">
-      <Name>SE-SB</Name>
+      <Name xml:lang="en">SE-SB</Name>
 <Definition>Sweden</Definition>
       <Definition xml:lang="en">Swedish National Board of Film Censors</Definition>
       <Definition xml:lang="sv">Statens biografbyrÃ¥</Definition>
@@ -2123,7 +2123,7 @@ Definition: This is a list of classification schemes used for content alert and 
 	
    
    <Term termID="45">
-      <Name>SG-MDA</Name>
+      <Name xml:lang="en">SG-MDA</Name>
 <Definition>Singapore</Definition>
       <Definition xml:lang="en">Media Development Authority</Definition>
       <Reference>http://www.mda.gov.sg/wms.www/resources.aspx?sid=159</Reference>
@@ -2157,7 +2157,7 @@ Definition: This is a list of classification schemes used for content alert and 
 	
    
    <Term termID="46">
-      <Name>TR-AISS</Name>
+      <Name xml:lang="en">TR-AISS</Name>
       <Definition xml:lang="en">Symbol system for content rating</Definition>
       <Definition xml:lang="tr">AkÄ±llÄ± Ä°Åaretler Sembol Sistemi</Definition>
       <Reference/>
