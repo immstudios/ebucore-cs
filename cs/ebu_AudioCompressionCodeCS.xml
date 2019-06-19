@@ -1551,9 +1551,9 @@
       <Name xml:lang="en">QCELP</Name>
       <Definition xml:lang="en">Qualcomm Code Excited Linear Prediction</Definition>
       <Reference/>
-      <ChangeComment>MovieLabs mapping</ChangeComment>
-      <ChangeVersionDate>2010-08-03</ChangeVersionDate>
-      <ValidityFlag>1</ValidityFlag>
+      <ChangeComment>New term is 30. Original 25 is already used</ChangeComment>
+      <ChangeVersionDate>2019-06-19</ChangeVersionDate>
+      <ValidityFlag>0</ValidityFlag>
       <DeprecatedVersionDate/>
       <Link xml:lang="en">
          <URL>http://en.wikipedia.org/wiki/Qualcomm_code-excited_linear_prediction</URL>
@@ -1614,4 +1614,17 @@
       
    </Term>
 
+   <Term termID="30">
+      <Name xml:lang="en">QCELP</Name>
+      <Definition xml:lang="en">Qualcomm Code Excited Linear Prediction</Definition>
+      <Reference/>
+      <ChangeComment>MovieLabs mapping</ChangeComment>
+      <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+      <Link xml:lang="en">
+         <URL>http://en.wikipedia.org/wiki/Qualcomm_code-excited_linear_prediction</URL>
+         <LinkName>Wikipedia</LinkName>
+      </Link>
+   </Term>
 </ClassificationScheme>
