@@ -387,7 +387,7 @@
             <ValidityFlag>1</ValidityFlag>
             <DeprecatedVersionDate/>
          </Term>
-         <Term termID="6.4.3.1">
+         <Term termID="6.4.3.3">
             <Name xml:lang="en">Frequent deliberate killing of animals</Name>
             <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
             <ChangeVersionDate>2007-04-12</ChangeVersionDate>
