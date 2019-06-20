@@ -4034,40 +4034,6 @@
             <DeprecatedVersionDate/>
          </Term>
       </Term>
-      <Term termID="20.21">
-         <Name xml:lang="en">Production Assistant</Name>
-         <Definition xml:lang="en">He brings a specific production together. Chooses the screenplay,
-            arranges financing, hires a director, helps in the casting process, coordinates the
-            production teams, contributors and artists, and is responsible for the day-to-day
-            operation of the shoot on set or from a studio galley (shot calling, shot-listing,
-            making recording notes, cueing, liaison with Presentation / VT, timing and continuity
-            noting; preparing operational and post-production documentation including programme
-            scripts, camera scripts / cards; recording orders, script breakdowns, schedules edit
-            notes and post production scripts). He is involved with the editing and all
-            post-production and may also consult on marketing and distribution. This function is
-            different from the one of assistant producer. In television, they are responsible for
-            communication with the broadcasting channel during a live show, counting down the time
-            before transmission aloud to the crew via the studio microphone. They also count down
-            time remaining for sections of a programme, such as an interview or an advert break.
-            Prior to a production, he is responsible for preparing and timing the script, noting
-            pre-recorded inserts, sound effects and suchlike, and for clearing copyright and other
-            administrative issues.</Definition>
-         <changeComment/>
-         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
-         <ValidityFlag>1</ValidityFlag>
-         <DeprecatedVersionDate/>
-      </Term>
-      <Term termID="20.22">
-         <Name xml:lang="en">Production Researcher</Name>
-         <Definition xml:lang="en">A Person who carries out research required for the making of a
-            production. This may be research to do with the subject matter of the programme such as
-            nackground information, supporting material, or in finding persons to take
-            part.</Definition>
-         <changeComment/>
-         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
-         <ValidityFlag>1</ValidityFlag>
-         <DeprecatedVersionDate/>
-      </Term>
       <Term termID="20.23">
          <Name xml:lang="en">Production Assistant Researcher</Name>
          <Definition xml:lang="en">A Person who carries out research required for the making of a
@@ -4325,6 +4291,40 @@
          <Name xml:lang="en">Stage Production Manager</Name>
          <Definition xml:lang="en">Person responsible overall for stage management. Theatrical
             productions only.</Definition>
+      </Term>
+      <Term termID="20.50">
+         <Name xml:lang="en">Production Assistant</Name>
+         <Definition xml:lang="en">He brings a specific production together. Chooses the screenplay,
+            arranges financing, hires a director, helps in the casting process, coordinates the
+            production teams, contributors and artists, and is responsible for the day-to-day
+            operation of the shoot on set or from a studio galley (shot calling, shot-listing,
+            making recording notes, cueing, liaison with Presentation / VT, timing and continuity
+            noting; preparing operational and post-production documentation including programme
+            scripts, camera scripts / cards; recording orders, script breakdowns, schedules edit
+            notes and post production scripts). He is involved with the editing and all
+            post-production and may also consult on marketing and distribution. This function is
+            different from the one of assistant producer. In television, they are responsible for
+            communication with the broadcasting channel during a live show, counting down the time
+            before transmission aloud to the crew via the studio microphone. They also count down
+            time remaining for sections of a programme, such as an interview or an advert break.
+            Prior to a production, he is responsible for preparing and timing the script, noting
+            pre-recorded inserts, sound effects and suchlike, and for clearing copyright and other
+            administrative issues.</Definition>
+         <changeComment/>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
+      </Term>
+      <Term termID="20.51">
+         <Name xml:lang="en">Production Researcher</Name>
+         <Definition xml:lang="en">A Person who carries out research required for the making of a
+            production. This may be research to do with the subject matter of the programme such as
+            nackground information, supporting material, or in finding persons to take
+            part.</Definition>
+         <changeComment/>
+         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <DeprecatedVersionDate/>
       </Term>
    </Term>
 
