@@ -76,7 +76,7 @@
       <FirstVersiondate>2007-04-12</FirstVersiondate>
       <ValidityFlag>1</ValidityFlag>
       <DeprecatedVersionDate/>
-      <Term termID="5">
+      <Term termID="5.1">
          <Name xml:lang="en">4:4:4 Y'CbCr</Name>
          <Definition xml:lang="en">Each of the three Y'CbCr components have the same sample rate.</Definition>
          <Reference>ITU-R BT.601</Reference>
@@ -86,7 +86,7 @@
          <ValidityFlag>1</ValidityFlag>
          <DeprecatedVersionDate/>
       </Term>
-      <Term termID="5">
+      <Term termID="5.2">
          <Name xml:lang="en">4:4:4 R'G'B'</Name>
          <Definition xml:lang="en">Note that "4:4:4" may instead be referring to R'G'B' color space,
             which implicitly does not have any chroma subsampling at all.</Definition>
