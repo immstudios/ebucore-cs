@@ -398,6 +398,15 @@
             <Definition xml:lang="en">A soap opera, sometimes called "soap" for short, is an
                ongoing, episodic work of dramatic fiction (in this case real life) presented in
                serial format on radio or as television programming. </Definition>
+            <ChangeComment>New term is 2.4.5.3. Original 2.4.5.2 was already used</ChangeComment>
+            <ChangeVersionDate>2019-06-19</ChangeVersionDate>
+            <ValidityFlag>0</ValidityFlag>
+         </Term>
+         <Term termID="2.4.5.3">
+            <Name xml:lang="en">Real-life soap</Name>
+            <Definition xml:lang="en">A soap opera, sometimes called "soap" for short, is an
+               ongoing, episodic work of dramatic fiction (in this case real life) presented in
+               serial format on radio or as television programming. </Definition>
             <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
             <ChangeVersionDate>2007-04-12</ChangeVersionDate>
             <ValidityFlag>1</ValidityFlag>
