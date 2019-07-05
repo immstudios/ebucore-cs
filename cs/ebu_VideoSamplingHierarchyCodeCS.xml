@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ClassificationScheme uri="urn:ebu:metadata-cs:VideoSamplingHierarchyCodeCS"
-   versionDate="2013-01-07">
+   versionDate="2019-06-24">
 
    <!-- ##################################################################### 
         VIDEO SAMPLING HIERARCHY CODE                                         
@@ -78,10 +78,11 @@
       <DeprecatedVersionDate/>
       <Term termID="5.1">
          <Name xml:lang="en">4:4:4 Y'CbCr</Name>
-         <Definition xml:lang="en">Each of the three Y'CbCr components have the same sample rate.</Definition>
+         <Definition xml:lang="en">Each of the three Y'CbCr components have the same sample
+            rate.</Definition>
          <Reference>ITU-R BT.601</Reference>
-         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
-         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <ChangeComment>corrected termId from 5 to 5.1</ChangeComment>
+         <ChangeVersionDate>2019-06-24</ChangeVersionDate>
          <FirstVersiondate>2007-04-12</FirstVersiondate>
          <ValidityFlag>1</ValidityFlag>
          <DeprecatedVersionDate/>
@@ -91,8 +92,8 @@
          <Definition xml:lang="en">Note that "4:4:4" may instead be referring to R'G'B' color space,
             which implicitly does not have any chroma subsampling at all.</Definition>
          <Reference>ITU-R BT.601</Reference>
-         <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
-         <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+         <ChangeComment>corrected termId from 5 to 5.2</ChangeComment>
+         <ChangeVersionDate>2019-06-24</ChangeVersionDate>
          <FirstVersiondate>2007-04-12</FirstVersiondate>
          <ValidityFlag>1</ValidityFlag>
          <DeprecatedVersionDate/>

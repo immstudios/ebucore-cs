@@ -43,7 +43,8 @@ The following Creative Commons Rights apply to the use of this EBU resource:
 
    <Term termID="3">
       <Name xml:lang="en">Dual mono</Name>
-      <Definition xml:lang="en">The same monaural signal is replicated on both channels.</Definition>
+      <Definition xml:lang="en">The same monaural signal is replicated on both
+         channels.</Definition>
       <Reference/>
       <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
       <ChangeVersionDate>2008-10-01</ChangeVersionDate>
@@ -70,7 +71,8 @@ The following Creative Commons Rights apply to the use of this EBU resource:
       </Term>
       <Term termID="4.2">
          <Name xml:lang="en">Stereo International</Name>
-         <Definition xml:lang="en">Stereographic Sound plus two single monographic sounds for commentaries.</Definition>
+         <Definition xml:lang="en">Stereographic Sound plus two single monographic sounds for
+            commentaries.</Definition>
          <Reference/>
          <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
          <ChangeVersionDate>2013-01-07</ChangeVersionDate>
@@ -126,7 +128,8 @@ The following Creative Commons Rights apply to the use of this EBU resource:
          <Name xml:lang="en">5.1 Surround</Name>
          <Definition xml:lang="en">A system comprising five discrete, full range main channels
             (Left, Centre, Right, Left surround, Right surround) plus a band-limited Low Frequency
-            Effects channel: 3/2/1 (L,C,R, LSide, RSide). This is used in Home Theater systems</Definition>
+            Effects channel: 3/2/1 (L,C,R, LSide, RSide). This is used in Home Theater
+            systems</Definition>
          <Reference/>
          <ChangeComment>Update</ChangeComment>
          <ChangeVersionDate>2013-01-07</ChangeVersionDate>
@@ -142,7 +145,8 @@ The following Creative Commons Rights apply to the use of this EBU resource:
          <Definition xml:lang="en">An eight-channel surround audio system. It adds two additional
             speakers to the more conventional six-channel (5.1) audio configuration. As with 5.1
             surround sound, 7.1 surround sound positional audio uses the standard front, center, and
-            LFE (subwoofer) speaker configuration. This is used in Movie Theater systems.</Definition>
+            LFE (subwoofer) speaker configuration. This is used in Movie Theater
+            systems.</Definition>
          <Reference/>
          <ChangeComment>Update</ChangeComment>
          <ChangeVersionDate>2013-01-07</ChangeVersionDate>
@@ -155,7 +159,8 @@ The following Creative Commons Rights apply to the use of this EBU resource:
       </Term>
       <Term termID="8.3">
          <Name xml:lang="en">10.2 Surround</Name>
-         <Definition xml:lang="en">10.2 surround sound would add four more channels to the front listening area and only one surround channel.</Definition>
+         <Definition xml:lang="en">10.2 surround sound would add four more channels to the front
+            listening area and only one surround channel.</Definition>
          <Reference/>
          <ChangeComment>Update</ChangeComment>
          <ChangeVersionDate>2013-01-07</ChangeVersionDate>
@@ -275,6 +280,19 @@ The following Creative Commons Rights apply to the use of this EBU resource:
       <DeprecatedVersionDate/>
    </Term>
 
+   <Term termID="12">
+      <Name xml:lang="en">Object audio</Name>
+      <Definition xml:lang="en">Audio following a structure following the
+         the Audio Definition Model (ADM), specifies how XML metadata can be generated to provide
+         the definitions of tracks in an audio file.</Definition>
+      <Reference>Recommendation ITU-R BS.2076</Reference>
+      <ChangeComment>Update</ChangeComment>
+      <ChangeVersionDate>2016-11-25</ChangeVersionDate>
+      <ValidityFlag>1</ValidityFlag>
+      <DeprecatedVersionDate/>
+   </Term>
+
+
    <Term termID="99">
       <Name xml:lang="en">Other</Name>
       <Definition xml:lang="en"/>
@@ -284,6 +302,6 @@ The following Creative Commons Rights apply to the use of this EBU resource:
       <ValidityFlag>1</ValidityFlag>
       <DeprecatedVersionDate/>
    </Term>
-   
+
 
 </ClassificationScheme>

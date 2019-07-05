@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ClassificationScheme uri="urn:ebu:metadata-cs:AudioCompressionCodeCS" versionDate="2013-01-07">
+<ClassificationScheme uri="urn:ebu:metadata-cs:AudioCompressionCodeCS" versionDate="2019-06-24">
    <!--
    ##################################################################### 
    AUDIO COMPRESSION CODE CS                                                                     
@@ -14,21 +14,22 @@
    
    ##################################################################### 
    -->
-   
+
    <Alias>EBUAudioCompressionCode</Alias>
-   
+
    <Link xml:lang="en">
       <URL>http://mpeg.chiariglione.org/docs/uri-assets</URL>
-     <LinkName>MPEG URI Assets</LinkName>
+      <LinkName>MPEG URI Assets</LinkName>
    </Link>
    <Link xml:lang="en">
       <URL>http://www.dvb.org/metadata/cs/AudioCodecCS.xml</URL>
       <LinkName>DVB Audio Codecs CS</LinkName>
    </Link>
-   
+
    <Term termID="1">
       <Name xml:lang="en">A-LAW</Name>
-      <Definition xml:lang="en">The 13 bits non-uniform coding scheme, as defined by G.711</Definition>
+      <Definition xml:lang="en">The 13 bits non-uniform coding scheme, as defined by
+         G.711</Definition>
       <Reference>CCITT</Reference>
       <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
       <ChangeVersionDate>2010-08-03</ChangeVersionDate>
@@ -39,10 +40,11 @@
          <LinkName>wikipedia</LinkName>
       </Link>
    </Term>
-   
+
    <Term termID="2">
       <Name xml:lang="en">MU-LAW</Name>
-      <Definition xml:lang="en">The 14 bits non-uniform coding scheme, as defined by G.711</Definition>
+      <Definition xml:lang="en">The 14 bits non-uniform coding scheme, as defined by
+         G.711</Definition>
       <Reference>CCITT</Reference>
       <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
       <ChangeVersionDate>2010-08-03</ChangeVersionDate>
@@ -53,7 +55,7 @@
          <LinkName>wikipedia</LinkName>
       </Link>
    </Term>
-   
+
    <Term termID="3">
       <Name xml:lang="en">ATRAC</Name>
       <Definition xml:lang="en">The Adaptive Transform Acoustic Coding scheme as defined by Sony -
@@ -88,10 +90,11 @@
          <DeprecatedVersionDate/>
       </Term>
    </Term>
-   
+
    <Term termID="4">
       <Name xml:lang="en">DOLBY</Name>
-      <Definition xml:lang="en">Any Dolby compression scheme as defined by Dolby Laboratories.</Definition>
+      <Definition xml:lang="en">Any Dolby compression scheme as defined by Dolby
+         Laboratories.</Definition>
       <Reference>Dolby Laboratories</Reference>
       <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
       <ChangeVersionDate>2010-08-03</ChangeVersionDate>
@@ -107,7 +110,8 @@
       </Link>
       <Term termID="4.1">
          <Name xml:lang="en">DOLBY A</Name>
-         <Definition xml:lang="en">The Dolby A compression scheme as defined by Dolby Laboratories.</Definition>
+         <Definition xml:lang="en">The Dolby A compression scheme as defined by Dolby
+            Laboratories.</Definition>
          <Reference>Dolby Laboratories</Reference>
          <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
          <ChangeVersionDate>2010-08-03</ChangeVersionDate>
@@ -244,7 +248,8 @@
       </Term>
       <Term termID="4.15">
          <Name xml:lang="en">DOLBY TRUEHD</Name>
-         <Definition xml:lang="en">The Dolby compression scheme as defined by Dolby Laboratories.</Definition>
+         <Definition xml:lang="en">The Dolby compression scheme as defined by Dolby
+            Laboratories.</Definition>
          <Reference>Dolby Laboratories</Reference>
          <ChangeComment>MovieLabs mapping</ChangeComment>
          <ChangeVersionDate>2010-08-03</ChangeVersionDate>
@@ -252,7 +257,7 @@
          <DeprecatedVersionDate/>
       </Term>
    </Term>
-   
+
    <Term termID="5">
       <Name xml:lang="en">DTS</Name>
       <Definition xml:lang="en">Digital Theatrical sound System</Definition>
@@ -306,7 +311,7 @@
          <DeprecatedVersionDate/>
       </Term>
    </Term>
-   
+
    <Term termID="6">
       <Name xml:lang="en">G.72x</Name>
       <Definition xml:lang="en">ITU-T G.72x Speech Coding</Definition>
@@ -326,7 +331,7 @@
          <DeprecatedVersionDate/>
          <Link xml:lang="en">
             <URL>http://en.wikipedia.org/wiki/G.722</URL>
-            <LinkName>wikipedia</LinkName>         
+            <LinkName>wikipedia</LinkName>
          </Link>
       </Term>
       <Term termID="6.2">
@@ -341,7 +346,7 @@
          <DeprecatedVersionDate/>
          <Link xml:lang="en">
             <URL>http://en.wikipedia.org/wiki/G.723</URL>
-            <LinkName>wikipedia</LinkName>         
+            <LinkName>wikipedia</LinkName>
          </Link>
       </Term>
       <Term termID="6.3">
@@ -366,7 +371,7 @@
          <DeprecatedVersionDate/>
          <Link xml:lang="en">
             <URL>http://en.wikipedia.org/wiki/G.726</URL>
-            <LinkName>wikipedia</LinkName>         
+            <LinkName>wikipedia</LinkName>
          </Link>
       </Term>
       <Term termID="6.5">
@@ -380,7 +385,7 @@
          <DeprecatedVersionDate/>
          <Link xml:lang="en">
             <URL>http://en.wikipedia.org/wiki/G.728</URL>
-            <LinkName>wikipedia</LinkName>         
+            <LinkName>wikipedia</LinkName>
          </Link>
       </Term>
       <Term termID="6.6">
@@ -394,7 +399,7 @@
          <DeprecatedVersionDate/>
          <Link xml:lang="en">
             <URL>http://en.wikipedia.org/wiki/G.729</URL>
-            <LinkName>wikipedia</LinkName>         
+            <LinkName>wikipedia</LinkName>
          </Link>
       </Term>
       <Term termID="6.7">
@@ -418,7 +423,7 @@
          <DeprecatedVersionDate/>
       </Term>
    </Term>
-   
+
    <Term termID="7">
       <Name xml:lang="en">MPEG-1 Audio</Name>
       <Definition xml:lang="en">Compression is applied to audio producing an output according to
@@ -431,15 +436,15 @@
       <DeprecatedVersionDate/>
       <Link xml:lang="en">
          <URL>http://en.wikipedia.org/wiki/MPEG-1</URL>
-         <LinkName>wikipedia</LinkName>         
+         <LinkName>wikipedia</LinkName>
       </Link>
       <Link xml:lang="en">
          <URL>http://live.dbpedia.org/page/MPEG-1</URL>
-         <LinkName>dbpedia</LinkName>         
+         <LinkName>dbpedia</LinkName>
       </Link>
       <Link xml:lang="en">
          <URL>http://mpgedit.org/mpgedit/mpeg_format/mpeghdr.htm</URL>
-         <LinkName>MPEG</LinkName>         
+         <LinkName>MPEG</LinkName>
       </Link>
       <Term termID="7.1">
          <Name xml:lang="en">MPEG-1 Layer I</Name>
@@ -475,7 +480,7 @@
          <DeprecatedVersionDate/>
       </Term>
    </Term>
-   
+
    <Term termID="8">
       <Name xml:lang="en">MPEG-2 AAC</Name>
       <Definition xml:lang="en">Advanced Audio Coding. Compression is applied to audio producing an
@@ -487,11 +492,11 @@
       <DeprecatedVersionDate/>
       <Link xml:lang="en">
          <URL>http://en.wikipedia.org/wiki/Advanced_Audio_Coding</URL>
-         <LinkName>wikipedia</LinkName>         
+         <LinkName>wikipedia</LinkName>
       </Link>
       <Link xml:lang="en">
          <URL>http://mpgedit.org/mpgedit/mpeg_format/mpeghdr.htm</URL>
-         <LinkName>MPEG</LinkName>         
+         <LinkName>MPEG</LinkName>
       </Link>
       <Term termID="8.1">
          <Name xml:lang="en">MPEG-2 Audio AAC Low Complexity Profile</Name>
@@ -531,7 +536,7 @@
          <DeprecatedVersionDate/>
          <Link xml:lang="en">
             <URL>http://en.wikipedia.org/wiki/MP3</URL>
-            <LinkName>wikipedia</LinkName>         
+            <LinkName>wikipedia</LinkName>
          </Link>
       </Term>
       <Term termID="8.5">
@@ -544,7 +549,7 @@
          <DeprecatedVersionDate/>
       </Term>
    </Term>
-   
+
    <Term termID="9">
       <Name xml:lang="en">MPEG-2 Audio</Name>
       <Definition xml:lang="en">ISO/IEC 13818-3 - MPEG-2 Audio Coding format</Definition>
@@ -555,15 +560,15 @@
       <DeprecatedVersionDate/>
       <Link xml:lang="en">
          <URL>http://en.wikipedia.org/wiki/MPEG-2</URL>
-         <LinkName>wikipedia</LinkName>         
+         <LinkName>wikipedia</LinkName>
       </Link>
       <Link xml:lang="en">
          <URL>http://live.dbpedia.org/page/MPEG-2</URL>
-         <LinkName>dbpedia</LinkName>         
+         <LinkName>dbpedia</LinkName>
       </Link>
       <Link xml:lang="en">
          <URL>http://mpgedit.org/mpgedit/mpeg_format/mpeghdr.htm</URL>
-         <LinkName>MPEG</LinkName>         
+         <LinkName>MPEG</LinkName>
       </Link>
       <Term termID="9.1">
          <Name xml:lang="en">MPEG-2 Layer I</Name>
@@ -600,9 +605,9 @@
       </Term>
       <Term termID="9.4">
          <Name xml:lang="en">MPEG-2 Audio Low Sampling Rate</Name>
-         <Definition xml:lang="en">MPEG-2 Audio Low Sampling Rate according to
-            International Standard ISO/IEC 13818-3, extension to MPEG-1 (sample rates half those of MPEG-1,
-            bit rates from 8 kbps up to 256kbp)</Definition>
+         <Definition xml:lang="en">MPEG-2 Audio Low Sampling Rate according to International
+            Standard ISO/IEC 13818-3, extension to MPEG-1 (sample rates half those of MPEG-1, bit
+            rates from 8 kbps up to 256kbp)</Definition>
          <Reference>ISO/IEC</Reference>
          <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
          <ChangeVersionDate>2010-08-03</ChangeVersionDate>
@@ -610,7 +615,7 @@
          <DeprecatedVersionDate/>
          <Link xml:lang="en">
             <URL>http://mpgedit.org/mpgedit/mpeg_format/mpeghdr.htm</URL>
-            <LinkName>MPEG</LinkName>         
+            <LinkName>MPEG</LinkName>
          </Link>
          <Term termID="9.4.1">
             <Name xml:lang="en">MPEG-2 Audio Low Sampling Rate Layer I</Name>
@@ -680,7 +685,7 @@
          </Term>
       </Term>
    </Term>
-   
+
    <Term termID="10">
       <Name xml:lang="en">MPEG-4 Audio</Name>
       <Definition xml:lang="en">MPEG-4 Audio Coding Format according to ISO/IEC 14496-3</Definition>
@@ -691,11 +696,11 @@
       <DeprecatedVersionDate/>
       <Link xml:lang="en">
          <URL>http://en.wikipedia.org/wiki/MPEG-4</URL>
-         <LinkName>wikipedia</LinkName>         
+         <LinkName>wikipedia</LinkName>
       </Link>
       <Link xml:lang="en">
          <URL>http://live.dbpedia.org/page/MPEG-4</URL>
-         <LinkName>dbpedia</LinkName>         
+         <LinkName>dbpedia</LinkName>
       </Link>
       <Term termID="10.1">
          <Name xml:lang="en">MPEG-4 Audio Synthetic Profile</Name>
@@ -1301,7 +1306,7 @@
          </Term>
       </Term>
    </Term>
-   
+
    <Term termID="11">
       <Name xml:lang="en">Linear PCM</Name>
       <Definition xml:lang="en">Linear Pulse Code Modulation</Definition>
@@ -1315,7 +1320,7 @@
          <LinkName>wikipedia</LinkName>
       </Link>
    </Term>
-   
+
    <Term termID="12">
       <Name xml:lang="en">AMR</Name>
       <Definition xml:lang="en">Advanced Multi Rate</Definition>
@@ -1330,7 +1335,8 @@
       </Link>
       <Term termID="12.1">
          <Name xml:lang="en">AMR-WB+</Name>
-         <Definition xml:lang="en">Advanced Multi Rate - ETSI TS 126 290 Extended AMR Wideband codec</Definition>
+         <Definition xml:lang="en">Advanced Multi Rate - ETSI TS 126 290 Extended AMR Wideband
+            codec</Definition>
          <Reference>ETSI</Reference>
          <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
          <ChangeVersionDate>2010-08-03</ChangeVersionDate>
@@ -1338,7 +1344,7 @@
          <DeprecatedVersionDate/>
       </Term>
    </Term>
-   
+
    <Term termID="13">
       <Name xml:lang="en">NICAM</Name>
       <Definition xml:lang="en">Near Instantaneuous Companded Audio Multiplex.</Definition>
@@ -1352,10 +1358,11 @@
          <LinkName>wikipedia</LinkName>
       </Link>
    </Term>
-   
+
    <Term termID="14">
       <Name xml:lang="en">Real Audio</Name>
-      <Definition xml:lang="en">Compression is made using RealNetworks audio compression algorithm.</Definition>
+      <Definition xml:lang="en">Compression is made using RealNetworks audio compression
+         algorithm.</Definition>
       <Reference>RealNetworks</Reference>
       <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
       <ChangeVersionDate>2010-08-03</ChangeVersionDate>
@@ -1375,7 +1382,7 @@
          <DeprecatedVersionDate/>
       </Term>
    </Term>
-   
+
    <Term termID="15">
       <Name xml:lang="en">None</Name>
       <Definition xml:lang="en">No compression is applied</Definition>
@@ -1385,7 +1392,7 @@
       <ValidityFlag>1</ValidityFlag>
       <DeprecatedVersionDate/>
    </Term>
-   
+
    <Term termID="16">
       <Name xml:lang="en">Unspecified</Name>
       <Definition xml:lang="en">A compression is applied but the type is unspecified</Definition>
@@ -1395,27 +1402,29 @@
       <ValidityFlag>1</ValidityFlag>
       <DeprecatedVersionDate/>
    </Term>
-   
+
    <Term termID="17">
       <Name xml:lang="en">Unspecified lossless</Name>
-      <Definition xml:lang="en">A lossless compression is applied. Other details are unspecified.</Definition>
+      <Definition xml:lang="en">A lossless compression is applied. Other details are
+         unspecified.</Definition>
       <Reference/>
       <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
       <ChangeVersionDate>2010-08-03</ChangeVersionDate>
       <ValidityFlag>1</ValidityFlag>
       <DeprecatedVersionDate/>
    </Term>
-   
+
    <Term termID="18">
       <Name xml:lang="en">Unspecified lossy</Name>
-      <Definition xml:lang="en">A lossy compression is applied. Other details are unspecified.</Definition>
+      <Definition xml:lang="en">A lossy compression is applied. Other details are
+         unspecified.</Definition>
       <Reference/>
       <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
       <ChangeVersionDate>2010-08-03</ChangeVersionDate>
       <ValidityFlag>1</ValidityFlag>
       <DeprecatedVersionDate/>
    </Term>
-   
+
    <Term termID="19">
       <Name xml:lang="en">Windows Media Audio (Wma)</Name>
       <Definition xml:lang="en">Variable Bit Rate (VBR), Constant Bit Rate (CBR) and lossless audio
@@ -1435,7 +1444,8 @@
       </Link>
       <Term termID="19.1">
          <Name xml:lang="en">WM9-lossless</Name>
-         <Definition xml:lang="en">Windows Media Audio 9 Lossless is a lossless incarnation of Windows Media Audio</Definition>
+         <Definition xml:lang="en">Windows Media Audio 9 Lossless is a lossless incarnation of
+            Windows Media Audio</Definition>
          <Reference/>
          <ChangeComment>Former termId was 27</ChangeComment>
          <ChangeVersionDate>2013-01-07</ChangeVersionDate>
@@ -1443,7 +1453,7 @@
          <DeprecatedVersionDate/>
       </Term>
    </Term>
-   
+
    <Term termID="20">
       <Name xml:lang="en">ALAC</Name>
       <Definition xml:lang="en">Apple Lossless Audio Codec.</Definition>
@@ -1457,7 +1467,7 @@
          <LinkName>wikipedia</LinkName>
       </Link>
    </Term>
-   
+
    <Term termID="21">
       <Name xml:lang="en">DSD</Name>
       <Definition xml:lang="en">Direct Stream Digital.</Definition>
@@ -1480,7 +1490,7 @@
          <DeprecatedVersionDate/>
       </Term>
    </Term>
-   
+
    <Term termID="21">
       <Name xml:lang="en">DST</Name>
       <Definition xml:lang="en">Direct Stream Transfer.</Definition>
@@ -1490,7 +1500,7 @@
       <ValidityFlag>0</ValidityFlag>
       <DeprecatedVersionDate>2013-01-07</DeprecatedVersionDate>
    </Term>
-   
+
    <Term termID="22">
       <Name xml:lang="en">FLAC</Name>
       <Definition xml:lang="en">Free Lossless Audio Codec</Definition>
@@ -1504,7 +1514,7 @@
          <LinkName>Wikipedia</LinkName>
       </Link>
    </Term>
-   
+
    <Term termID="23">
       <Name xml:lang="en">LPAC</Name>
       <Definition xml:lang="en">Lossless Predictive Audio Compression</Definition>
@@ -1518,7 +1528,7 @@
          <LinkName>Wikipedia</LinkName>
       </Link>
    </Term>
-   
+
    <Term termID="24">
       <Name xml:lang="en">LTAC</Name>
       <Definition xml:lang="en">Lossless transform Audio Compression</Definition>
@@ -1532,7 +1542,7 @@
          <LinkName>Wikipedia</LinkName>
       </Link>
    </Term>
-   
+
    <Term termID="25">
       <Name xml:lang="en">MLP</Name>
       <Definition xml:lang="en">Meridian Lossless Packing</Definition>
@@ -1546,21 +1556,22 @@
          <LinkName>Wikipedia</LinkName>
       </Link>
    </Term>
-   
+
    <Term termID="25">
       <Name xml:lang="en">QCELP</Name>
       <Definition xml:lang="en">Qualcomm Code Excited Linear Prediction</Definition>
       <Reference/>
-      <ChangeComment>New term is 30. Original 25 is already used</ChangeComment>
-      <ChangeVersionDate>2019-06-19</ChangeVersionDate>
+      <ChangeComment>MovieLabs mapping</ChangeComment>
+      <ChangeComment>DEPRECATED - Duplicated termId, renumbered to 30</ChangeComment>
+      <ChangeVersionDate>2019-06-24</ChangeVersionDate>
       <ValidityFlag>0</ValidityFlag>
-      <DeprecatedVersionDate/>
+      <DeprecatedVersionDate>2019-06-24</DeprecatedVersionDate>
       <Link xml:lang="en">
          <URL>http://en.wikipedia.org/wiki/Qualcomm_code-excited_linear_prediction</URL>
          <LinkName>Wikipedia</LinkName>
       </Link>
    </Term>
-   
+
    <Term termID="26">
       <Name xml:lang="en">Vorbis</Name>
       <Definition xml:lang="en">Ogg Vorbis</Definition>
@@ -1574,17 +1585,18 @@
          <LinkName>Wikipedia</LinkName>
       </Link>
    </Term>
-   
+
    <Term termID="27">
       <Name xml:lang="en">WM9-lossless</Name>
-      <Definition xml:lang="en">Windows Media Audio 9 Lossless is a lossless incarnation of Windows Media Audio</Definition>
+      <Definition xml:lang="en">Windows Media Audio 9 Lossless is a lossless incarnation of Windows
+         Media Audio</Definition>
       <Reference/>
       <ChangeComment>New termId is 19.1</ChangeComment>
       <ChangeVersionDate>2013-01-07</ChangeVersionDate>
       <ValidityFlag>0</ValidityFlag>
       <DeprecatedVersionDate>2013-01-07</DeprecatedVersionDate>
    </Term>
-   
+
    <Term termID="28">
       <Name xml:lang="en">WAV</Name>
       <Definition xml:lang="en">Waveform Audio File format</Definition>
@@ -1601,7 +1613,8 @@
 
    <Term termID="29">
       <Name xml:lang="en">Ambisonic</Name>
-      <Definition xml:lang="en">A series of recording and replay techniques using multichannel mixing technology that can be used live or in the studio.</Definition>
+      <Definition xml:lang="en">A series of recording and replay techniques using multichannel
+         mixing technology that can be used live or in the studio.</Definition>
       <Reference/>
       <ChangeComment>Update</ChangeComment>
       <ChangeVersionDate>2013-01-07</ChangeVersionDate>
@@ -1611,7 +1624,6 @@
          <URL>http://en.wikipedia.org/wiki/Ambisonics</URL>
          <LinkName>Wikipedia</LinkName>
       </Link>
-      
    </Term>
 
    <Term termID="30">
@@ -1619,7 +1631,8 @@
       <Definition xml:lang="en">Qualcomm Code Excited Linear Prediction</Definition>
       <Reference/>
       <ChangeComment>MovieLabs mapping</ChangeComment>
-      <ChangeVersionDate>2010-08-03</ChangeVersionDate>
+      <ChangeComment>Changed termId from 25 to 30</ChangeComment>
+      <ChangeVersionDate>2019-06-24</ChangeVersionDate>
       <ValidityFlag>1</ValidityFlag>
       <DeprecatedVersionDate/>
       <Link xml:lang="en">
@@ -1627,4 +1640,5 @@
          <LinkName>Wikipedia</LinkName>
       </Link>
    </Term>
+
 </ClassificationScheme>

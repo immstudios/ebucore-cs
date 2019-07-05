@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ClassificationScheme uri="urn:ebu:metadata-cs:ContentGenreCS" versionDate="2013-07-16" >
-   <!--ClassificationScheme uri="urn:ebu:metadata-cs:ContentGenreCS" versionDate="2013-07-16"  xmlns="urn:ebu:metadata-schema:ebucs_2013"-->
-      
+<ClassificationScheme uri="urn:ebu:metadata-cs:ContentGenreCS" versionDate="2019-06-24">
+
    <!--##################################################################### 
       CONTENT GENRE CS
       Definition: This dimension is used to classify programmes according to their content or subject.
@@ -19,17 +18,15 @@
       Author: Jean-Pierre Evain   
       Contact: evain@ebu.ch      
       ##################################################################### -->
-   
-   
+
+
    <Alias>EBUContentGenre</Alias>
-   
-   <Link  xml:lang="en">
-      <URL>
-         http://en.wikipedia.org/wiki/List_of_genres
-      </URL>
+
+   <Link xml:lang="en">
+      <URL> http://en.wikipedia.org/wiki/List_of_genres </URL>
       <LinkName>Wikipedia - List of genres</LinkName>
    </Link>
-   
+
    <Term termID="3.0">
       <Name xml:lang="en">Proprietary</Name>
       <Definition xml:lang="en">For use where proprietary extensions are required, or the use of
@@ -39,8 +36,8 @@
       <ChangeVersionDate>2007-04-12</ChangeVersionDate>
       <ValidityFlag>1</ValidityFlag>
    </Term>
-   
-   
+
+
    <Term termID="3.1">
       <Name xml:lang="en">NON-FICTION/INFORMATION</Name>
       <Keyword xml:lang="en">NON-FICTION</Keyword>
@@ -131,7 +128,8 @@
             <Name xml:lang="en">Periodical/General</Name>
             <Keyword xml:lang="en">Periodical</Keyword>
             <Keyword xml:lang="en">General</Keyword>
-            <Definition xml:lang="en">regular timely programme covering general newsworthy items</Definition>
+            <Definition xml:lang="en">regular timely programme covering general newsworthy
+               items</Definition>
             <Reference/>
             <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
             <ChangeVersionDate>2007-04-12</ChangeVersionDate>
@@ -141,7 +139,8 @@
             <Name xml:lang="en">National/National politics/National assembly</Name>
             <Keyword xml:lang="en">National politics</Keyword>
             <Keyword xml:lang="en">National assembly</Keyword>
-            <Definition xml:lang="en">new coverage of political events eg parliamentary coverage</Definition>
+            <Definition xml:lang="en">new coverage of political events eg parliamentary
+               coverage</Definition>
             <Reference>IPTC SubjectCode</Reference>
             <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
             <ChangeVersionDate>2007-04-12</ChangeVersionDate>
@@ -518,7 +517,8 @@
             </Term>
             <Term termID="3.1.2.1.9">
                <Name xml:lang="en">Baha'i</Name>
-               <Definition xml:lang="en">A religion founded by BahÃ¡'u'llÃ¡h in 19th century Persia.</Definition>
+               <Definition xml:lang="en">A religion founded by BahÃ¡'u'llÃ¡h in 19th century
+                  Persia.</Definition>
                <Reference/>
                <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
                <ChangeVersionDate>2007-04-12</ChangeVersionDate>
@@ -788,7 +788,8 @@
             <Term termID="3.1.2.1.41">
                <Name xml:lang="en">Protestant</Name>
                <Definition xml:lang="en">General term for christian churches and religious
-                  communities which developed through the reformation in the 16th century</Definition>
+                  communities which developed through the reformation in the 16th
+                  century</Definition>
                <Reference/>
                <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
                <ChangeVersionDate>2007-04-12</ChangeVersionDate>
@@ -825,7 +826,8 @@
             <Term termID="3.1.2.1.42">
                <Name xml:lang="en">Methodist</Name>
                <Definition xml:lang="en">Followers of John and Charles Wesley who tried to reform
-                  the Church of England in the 18th century and turned into a separate church</Definition>
+                  the Church of England in the 18th century and turned into a separate
+                  church</Definition>
                <Reference/>
                <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
                <ChangeVersionDate>2007-04-12</ChangeVersionDate>
@@ -880,7 +882,8 @@
                <Name xml:lang="en">Orthodoxy</Name>
                <Definition xml:lang="en">Eastern rite churches which are characterised by their
                   continuity with the apostolic church, their liturgy and their territorial
-                  churches, mainly in eastern and south-eastern Europe and the Middle East</Definition>
+                  churches, mainly in eastern and south-eastern Europe and the Middle
+                  East</Definition>
                <Reference/>
                <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
                <ChangeVersionDate>2007-04-12</ChangeVersionDate>
@@ -914,7 +917,8 @@
             <Term termID="3.1.2.1.52">
                <Name xml:lang="en">Jehovah Witnesses</Name>
                <Definition xml:lang="en">International Christian denomination that had its origins
-                  in the United States with the 19th century Millerite and Bible Student movements.</Definition>
+                  in the United States with the 19th century Millerite and Bible Student
+                  movements.</Definition>
                <Reference/>
                <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
                <ChangeVersionDate>2007-04-12</ChangeVersionDate>
@@ -1296,7 +1300,8 @@
             <Name xml:lang="en">Military/Defence</Name>
             <Keyword xml:lang="en">Military</Keyword>
             <Keyword xml:lang="en">Defence</Keyword>
-            <Definition xml:lang="en">Anything involving the defence of one's own country</Definition>
+            <Definition xml:lang="en">Anything involving the defence of one's own
+               country</Definition>
             <Reference>IPTC SubjectCode</Reference>
             <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
             <ChangeVersionDate>2007-04-12</ChangeVersionDate>
@@ -1314,7 +1319,8 @@
          </Term>
          <Term termID="3.1.3.10">
             <Name xml:lang="en">Agriculture</Name>
-            <Definition xml:lang="en">The process of producing natural materials for consumption</Definition>
+            <Definition xml:lang="en">The process of producing natural materials for
+               consumption</Definition>
             <Reference/>
             <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
             <ChangeVersionDate>2007-04-12</ChangeVersionDate>
@@ -1550,7 +1556,8 @@
          </Term>
          <Term termID="3.1.5.2">
             <Name xml:lang="en">Languages</Name>
-            <Definition xml:lang="en">The means by which people communicate with each other.</Definition>
+            <Definition xml:lang="en">The means by which people communicate with each
+               other.</Definition>
             <Reference/>
             <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
             <ChangeVersionDate>2007-04-12</ChangeVersionDate>
@@ -1682,7 +1689,8 @@
             </Term>
             <Term termID="3.1.6.2.6">
                <Name xml:lang="en">Meteorology</Name>
-               <Definition xml:lang="en">All scientific aspects of the weather and climate.</Definition>
+               <Definition xml:lang="en">All scientific aspects of the weather and
+                  climate.</Definition>
                <Reference/>
                <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
                <ChangeVersionDate>2007-04-12</ChangeVersionDate>
@@ -1744,7 +1752,8 @@
             <ValidityFlag>1</ValidityFlag>
             <Term termID="3.1.6.5.1">
                <Name xml:lang="en">Cosmology</Name>
-               <Definition xml:lang="en">Study of the organization and structure of the universe</Definition>
+               <Definition xml:lang="en">Study of the organization and structure of the
+                  universe</Definition>
                <Reference/>
                <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
                <ChangeVersionDate>2007-04-12</ChangeVersionDate>
@@ -1892,7 +1901,8 @@
                <Name xml:lang="en">IT/computer sciences</Name>
                <Keyword xml:lang="en">IT</Keyword>
                <Keyword xml:lang="en">computer sciences</Keyword>
-               <Definition xml:lang="en">The study and design of computer systems and networks.</Definition>
+               <Definition xml:lang="en">The study and design of computer systems and
+                  networks.</Definition>
                <Reference/>
                <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
                <ChangeVersionDate>2007-04-12</ChangeVersionDate>
@@ -1990,7 +2000,8 @@
          <Term termID="3.1.7.1">
             <Name xml:lang="en">Reality</Name>
             <Definition xml:lang="en">Programme based on real life, usually by the camera observing
-               without changing what is happening ("fly on the wall documentary" for example)</Definition>
+               without changing what is happening ("fly on the wall documentary" for
+               example)</Definition>
             <Reference/>
             <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
             <ChangeVersionDate>2007-04-12</ChangeVersionDate>
@@ -2125,7 +2136,8 @@
       </Term>
       <Term termID="3.1.9">
          <Name xml:lang="en">Events</Name>
-         <Definition xml:lang="en">Coverage of events, not the event itself (see format)</Definition>
+         <Definition xml:lang="en">Coverage of events, not the event itself (see
+            format)</Definition>
          <Reference/>
          <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
          <ChangeVersionDate>2007-04-12</ChangeVersionDate>
@@ -2496,7 +2508,8 @@
          </Term>
          <Term termID="3.1.10.10">
             <Name xml:lang="en">Internet</Name>
-            <Definition xml:lang="en">Stories related to Internet as art and entertainment</Definition>
+            <Definition xml:lang="en">Stories related to Internet as art and
+               entertainment</Definition>
             <Reference/>
             <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
             <ChangeVersionDate>2007-04-12</ChangeVersionDate>
@@ -2537,8 +2550,8 @@
          <ValidityFlag>1</ValidityFlag>
       </Term>
    </Term>
-   
-   
+
+
    <Term termID="3.2">
       <Name xml:lang="en">SPORTS</Name>
       <Definition/>
@@ -2907,7 +2920,8 @@
                <Term termID="3.2.2.1.2.3">
                   <Name xml:lang="en">Trial</Name>
                   <Definition xml:lang="en">A timed race in which competitors on mountain bikes must
-                     negotiate tricky terrain and obstacles without putting their feet down.</Definition>
+                     negotiate tricky terrain and obstacles without putting their feet
+                     down.</Definition>
                   <Reference/>
                   <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
                   <ChangeVersionDate>2007-04-12</ChangeVersionDate>
@@ -2942,7 +2956,8 @@
             <Term termID="3.2.2.4.1">
                <Name xml:lang="en">Team pursuit</Name>
                <Definition xml:lang="en">Two cyclists or teams set off from midway down opposite
-                  straights and try to make up the gap between them over a distance of 4000 m.</Definition>
+                  straights and try to make up the gap between them over a distance of 4000
+                  m.</Definition>
                <Reference/>
                <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
                <ChangeVersionDate>2007-04-12</ChangeVersionDate>
@@ -3007,7 +3022,8 @@
             </Term>
             <Term termID="3.2.2.4.8">
                <Name xml:lang="en">500 m time trial</Name>
-               <Definition xml:lang="en">Individual race against the clock over 500m for women.</Definition>
+               <Definition xml:lang="en">Individual race against the clock over 500m for
+                  women.</Definition>
                <Reference/>
                <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
                <ChangeVersionDate>2007-04-12</ChangeVersionDate>
@@ -3015,7 +3031,8 @@
             </Term>
             <Term termID="3.2.2.4.9">
                <Name xml:lang="en">1 km time trial</Name>
-               <Definition xml:lang="en">Individual race over 1000m against the clock for men.</Definition>
+               <Definition xml:lang="en">Individual race over 1000m against the clock for
+                  men.</Definition>
                <Reference/>
                <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
                <ChangeVersionDate>2007-04-12</ChangeVersionDate>
@@ -3039,7 +3056,8 @@
                <ValidityFlag>1</ValidityFlag>
                <Term termID="3.2.2.5.1">
                   <Name xml:lang="en">Individual road race</Name>
-                  <Definition xml:lang="en">Road race with all the competitor starting en masse.</Definition>
+                  <Definition xml:lang="en">Road race with all the competitor starting en
+                     masse.</Definition>
                   <Reference/>
                   <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
                   <ChangeVersionDate>2007-04-12</ChangeVersionDate>
@@ -3066,7 +3084,8 @@
             </Term>
             <Term termID="3.2.2.6">
                <Name xml:lang="en">cyclo-cross</Name>
-               <Definition xml:lang="en">Staged on various surfaces - earth, grass, sand or tarmac.</Definition>
+               <Definition xml:lang="en">Staged on various surfaces - earth, grass, sand or
+                  tarmac.</Definition>
                <Reference/>
                <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
                <ChangeVersionDate>2007-04-12</ChangeVersionDate>
@@ -3268,7 +3287,8 @@
             </Term>
             <Term termID="3.2.3.17.2">
                <Name xml:lang="en">German netball</Name>
-               <Definition xml:lang="en">Same as Swiss Netball, but with specific German rules</Definition>
+               <Definition xml:lang="en">Same as Swiss Netball, but with specific German
+                  rules</Definition>
                <Reference/>
                <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
                <ChangeVersionDate>2007-04-12</ChangeVersionDate>
@@ -3276,7 +3296,8 @@
             </Term>
             <Term termID="3.2.3.17.3">
                <Name xml:lang="en">Dutch netball</Name>
-               <Definition xml:lang="en">Same as Swiss Netball, but with specific Dutch rule</Definition>
+               <Definition xml:lang="en">Same as Swiss Netball, but with specific Dutch
+                  rule</Definition>
                <Reference/>
                <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
                <ChangeVersionDate>2007-04-12</ChangeVersionDate>
@@ -3311,7 +3332,8 @@
                <Name xml:lang="en">Rugby union</Name>
                <Definition xml:lang="en">Two teams of 15 compete on a pitch where they score tries
                   and penalties by running with and passing an oval ball to be touched down behind
-                  the goal line or kicked between goal posts in a tough physical contest</Definition>
+                  the goal line or kicked between goal posts in a tough physical
+                  contest</Definition>
                <Reference/>
                <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
                <ChangeVersionDate>2007-04-12</ChangeVersionDate>
@@ -3321,7 +3343,8 @@
                <Name xml:lang="en">Rugby league</Name>
                <Definition xml:lang="en">Two teams of 13 compete on a pitch where they score tries
                   and penalties by running with and passing an oval ball to be touched down behind
-                  the goal line or kicked between goal posts in a tough physical contest</Definition>
+                  the goal line or kicked between goal posts in a tough physical
+                  contest</Definition>
                <Reference/>
                <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
                <ChangeVersionDate>2007-04-12</ChangeVersionDate>
@@ -3331,7 +3354,8 @@
          <Term termID="3.2.3.20">
             <Name xml:lang="en">Softball</Name>
             <Definition xml:lang="en">A Women only category. Similar to baseball but with a larger
-               and softer ball, a thinner bat, shorter gaps between bases and less innings</Definition>
+               and softer ball, a thinner bat, shorter gaps between bases and less
+               innings</Definition>
             <Reference/>
             <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
             <ChangeVersionDate>2007-04-12</ChangeVersionDate>
@@ -3351,7 +3375,8 @@
             <Name xml:lang="en">Beach volley</Name>
             <Definition xml:lang="en">Two teams of two players compete on a sand court. Unlike
                indoor volleyball, points are scored only when the serving team wins a rally or
-               forces an error. The sand surface makes it more physically demanding than volleyball.</Definition>
+               forces an error. The sand surface makes it more physically demanding than
+               volleyball.</Definition>
             <Reference/>
             <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
             <ChangeVersionDate>2007-04-12</ChangeVersionDate>
@@ -3430,7 +3455,8 @@
                <Name xml:lang="en">DDC</Name>
                <Definition xml:lang="en">Abbreviation for Double Disc Court. Two players per team in
                   a square 13x13 metre. The teams start with one disc per team and throw at each
-                  other. Discs are thrown back and forth until one or both hit the ground.</Definition>
+                  other. Discs are thrown back and forth until one or both hit the
+                  ground.</Definition>
                <Reference/>
                <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
                <ChangeVersionDate>2007-04-12</ChangeVersionDate>
@@ -3684,7 +3710,8 @@
             <ValidityFlag>1</ValidityFlag>
             <Term termID="3.2.5.3.1">
                <Name xml:lang="en">Heavyweight</Name>
-               <Definition xml:lang="en">Open but usually over 100kg for men and over 78kg for women</Definition>
+               <Definition xml:lang="en">Open but usually over 100kg for men and over 78kg for
+                  women</Definition>
                <Reference/>
                <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
                <ChangeVersionDate>2007-04-12</ChangeVersionDate>
@@ -3888,7 +3915,8 @@
             <Term termID="3.2.5.8.13">
                <Name xml:lang="en">Sepak takraw</Name>
                <Definition xml:lang="en">The game like volleyball which must not use a hand. The
-                  ball made of rattan is used. (Programme of National Sports Festival in Japan)</Definition>
+                  ball made of rattan is used. (Programme of National Sports Festival in
+                  Japan)</Definition>
                <Reference/>
                <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
                <ChangeVersionDate>2007-04-12</ChangeVersionDate>
@@ -4158,7 +4186,8 @@
             <ValidityFlag>1</ValidityFlag>
             <Term termID="3.2.6.4.1">
                <Name xml:lang="en">10 m platform</Name>
-               <Definition xml:lang="en">Divers take off from a ten metre high platform.</Definition>
+               <Definition xml:lang="en">Divers take off from a ten metre high
+                  platform.</Definition>
                <Reference/>
                <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
                <ChangeVersionDate>2007-04-12</ChangeVersionDate>
@@ -4176,7 +4205,8 @@
             </Term>
             <Term termID="3.2.6.4.3">
                <Name xml:lang="en">3 m springboard</Name>
-               <Definition xml:lang="en">Divers dive from a three-metre high springboard.</Definition>
+               <Definition xml:lang="en">Divers dive from a three-metre high
+                  springboard.</Definition>
                <Reference/>
                <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
                <ChangeVersionDate>2007-04-12</ChangeVersionDate>
@@ -4434,7 +4464,8 @@
             <ValidityFlag>1</ValidityFlag>
             <Term termID="3.2.6.9.1">
                <Name xml:lang="en">Scuba diving</Name>
-               <Definition xml:lang="en">Diving into different depths, with time measurement</Definition>
+               <Definition xml:lang="en">Diving into different depths, with time
+                  measurement</Definition>
                <Reference/>
                <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
                <ChangeVersionDate>2007-04-12</ChangeVersionDate>
@@ -4513,7 +4544,8 @@
             </Term>
             <Term termID="3.2.6.11.7">
                <Name xml:lang="en">relay 4x100 m freestyle</Name>
-               <Definition xml:lang="en">Teams of four swimmers cover 100m freestyle in a 400m race</Definition>
+               <Definition xml:lang="en">Teams of four swimmers cover 100m freestyle in a 400m
+                  race</Definition>
                <Reference/>
                <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
                <ChangeVersionDate>2007-04-12</ChangeVersionDate>
@@ -4521,7 +4553,8 @@
             </Term>
             <Term termID="3.2.6.11.8">
                <Name xml:lang="en">relay 4x200 m freestyle</Name>
-               <Definition xml:lang="en">Teams of four swimmers cover 200m freestyle in a 800m race</Definition>
+               <Definition xml:lang="en">Teams of four swimmers cover 200m freestyle in a 800m
+                  race</Definition>
                <Reference/>
                <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
                <ChangeVersionDate>2007-04-12</ChangeVersionDate>
@@ -4634,7 +4667,8 @@
             </Term>
             <Term termID="3.2.6.12.2">
                <Name xml:lang="en">Team</Name>
-               <Definition xml:lang="en">A team of more than 2 swimmers perform together</Definition>
+               <Definition xml:lang="en">A team of more than 2 swimmers perform
+                  together</Definition>
                <Reference/>
                <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
                <ChangeVersionDate>2007-04-12</ChangeVersionDate>
@@ -4685,7 +4719,8 @@
             </Term>
             <Term termID="3.2.6.14.4">
                <Name xml:lang="en">Combined</Name>
-               <Definition xml:lang="en">A combined event made up of the slalom, jump and trick</Definition>
+               <Definition xml:lang="en">A combined event made up of the slalom, jump and
+                  trick</Definition>
                <Reference/>
                <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
                <ChangeVersionDate>2007-04-12</ChangeVersionDate>
@@ -4748,7 +4783,8 @@
             <Name xml:lang="en">Skeleton</Name>
             <Definition xml:lang="en">In skeleton the competitor lays on his/hers stomach when
                racing down the course. The competitor must be on the sled when crossing the
-               finishing line. The total time of all races in a competition is added together.</Definition>
+               finishing line. The total time of all races in a competition is added
+               together.</Definition>
             <Reference/>
             <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
             <ChangeVersionDate>2007-04-12</ChangeVersionDate>
@@ -4800,14 +4836,16 @@
             <Name xml:lang="en">Luge</Name>
             <Definition xml:lang="en">Luge (French word for sled) is competed in singles or doubles.
                The competitor(s) lay on their back(s) on an open sled and race down a course. The
-               competitor(s) and the sled must be in contact when passing the finishing line.</Definition>
+               competitor(s) and the sled must be in contact when passing the finishing
+               line.</Definition>
             <Reference/>
             <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
             <ChangeVersionDate>2007-04-12</ChangeVersionDate>
             <ValidityFlag>1</ValidityFlag>
             <Term termID="3.2.7.6.1">
                <Name xml:lang="en">Singles</Name>
-               <Definition xml:lang="en">individual time trial event in a one seater luge</Definition>
+               <Definition xml:lang="en">individual time trial event in a one seater
+                  luge</Definition>
                <Reference/>
                <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
                <ChangeVersionDate>2007-04-12</ChangeVersionDate>
@@ -4873,7 +4911,8 @@
          </Term>
          <Term termID="3.2.7.11">
             <Name xml:lang="en">Snowboarding</Name>
-            <Definition xml:lang="en">Practiced with a single board (rather than two skis)</Definition>
+            <Definition xml:lang="en">Practiced with a single board (rather than two
+               skis)</Definition>
             <Reference/>
             <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
             <ChangeVersionDate>2007-04-12</ChangeVersionDate>
@@ -5037,7 +5076,8 @@
                </Term>
                <Term termID="3.2.7.15.1.5">
                   <Name xml:lang="en">Individual</Name>
-                  <Definition xml:lang="en">15 or 50 km for Men and 10 or 30 km for women</Definition>
+                  <Definition xml:lang="en">15 or 50 km for Men and 10 or 30 km for
+                     women</Definition>
                   <Reference/>
                   <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
                   <ChangeVersionDate>2007-04-12</ChangeVersionDate>
@@ -5162,7 +5202,8 @@
          </Term>
          <Term termID="3.2.7.19">
             <Name xml:lang="en">Ice-dance</Name>
-            <Definition xml:lang="en">The expression of emotion or message through movement</Definition>
+            <Definition xml:lang="en">The expression of emotion or message through
+               movement</Definition>
             <Reference/>
             <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
             <ChangeVersionDate>2007-04-12</ChangeVersionDate>
@@ -5285,7 +5326,8 @@
             </Term>
             <Term termID="3.2.8.1.2">
                <Name xml:lang="en">Touring car Racing</Name>
-               <Definition xml:lang="en">Road racing that is run with production derived race cars.</Definition>
+               <Definition xml:lang="en">Road racing that is run with production derived race
+                  cars.</Definition>
                <Reference/>
                <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
                <ChangeVersionDate>2007-04-12</ChangeVersionDate>
@@ -5353,7 +5395,8 @@
             <ValidityFlag>1</ValidityFlag>
             <Term termID="3.2.8.3.1">
                <Name xml:lang="en">Grand-Prix</Name>
-               <Definition xml:lang="en">A fast and furious race where every second counts</Definition>
+               <Definition xml:lang="en">A fast and furious race where every second
+                  counts</Definition>
                <Reference/>
                <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
                <ChangeVersionDate>2007-04-12</ChangeVersionDate>
@@ -5673,7 +5716,8 @@
                      <Name xml:lang="en">Trickshot</Name>
                      <Definition/>
                      <Reference/>
-                     <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
+                     <ChangeComment>First version after conversion of P/META into
+                        XML</ChangeComment>
                      <ChangeVersionDate>2007-04-12</ChangeVersionDate>
                      <ValidityFlag>1</ValidityFlag>
                   </Term>
@@ -6042,7 +6086,8 @@
             </Term>
             <Term termID="3.2.10.11.3">
                <Name xml:lang="en">Clubs</Name>
-               <Definition xml:lang="en">Dance and gymnastic moves whilst juggling clubs.</Definition>
+               <Definition xml:lang="en">Dance and gymnastic moves whilst juggling
+                  clubs.</Definition>
                <Reference/>
                <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
                <ChangeVersionDate>2007-04-12</ChangeVersionDate>
@@ -6077,7 +6122,8 @@
             </Term>
             <Term termID="3.2.10.11.7">
                <Name xml:lang="en">Ball</Name>
-               <Definition xml:lang="en">An exercise based on suppleness of the body using a ball.</Definition>
+               <Definition xml:lang="en">An exercise based on suppleness of the body using a
+                  ball.</Definition>
                <Reference/>
                <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
                <ChangeVersionDate>2007-04-12</ChangeVersionDate>
@@ -6292,7 +6338,8 @@
             </Term>
             <Term termID="3.2.12.1.4">
                <Name xml:lang="en">Crossbow shooting</Name>
-               <Definition xml:lang="en">Shooting with crossbow on targets from different distances</Definition>
+               <Definition xml:lang="en">Shooting with crossbow on targets from different
+                  distances</Definition>
                <Reference/>
                <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
                <ChangeVersionDate>2007-04-12</ChangeVersionDate>
@@ -6534,7 +6581,8 @@
                </Term>
                <Term termID="3.2.13.2.4">
                   <Name xml:lang="en">69 - 75 kg</Name>
-                  <Definition xml:lang="en">weight category which varies according to the federation</Definition>
+                  <Definition xml:lang="en">weight category which varies according to the
+                     federation</Definition>
                   <Reference/>
                   <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
                   <ChangeVersionDate>2007-04-12</ChangeVersionDate>
@@ -6542,7 +6590,8 @@
                </Term>
                <Term termID="3.2.13.2.5">
                   <Name xml:lang="en">64 - 69 kg</Name>
-                  <Definition xml:lang="en">weight category which varies according to the federation</Definition>
+                  <Definition xml:lang="en">weight category which varies according to the
+                     federation</Definition>
                   <Reference/>
                   <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
                   <ChangeVersionDate>2007-04-12</ChangeVersionDate>
@@ -6550,7 +6599,8 @@
                </Term>
                <Term termID="3.2.13.2.6">
                   <Name xml:lang="en">60 - 64 kg</Name>
-                  <Definition xml:lang="en">weight category which varies according to the federation</Definition>
+                  <Definition xml:lang="en">weight category which varies according to the
+                     federation</Definition>
                   <Reference/>
                   <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
                   <ChangeVersionDate>2007-04-12</ChangeVersionDate>
@@ -6599,7 +6649,8 @@
                <Term termID="3.2.13.2.12">
                   <Name xml:lang="en">French boxing</Name>
                   <Definition xml:lang="en">Combat sport in which kicking with all parts of the feet
-                     are permitted and punching with the front of the fist is also allowed</Definition>
+                     are permitted and punching with the front of the fist is also
+                     allowed</Definition>
                   <Reference/>
                   <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
                   <ChangeVersionDate>2007-04-12</ChangeVersionDate>
@@ -6652,7 +6703,8 @@
                <Term termID="3.2.13.5.2">
                   <Name xml:lang="en">Clean and jerk</Name>
                   <Definition xml:lang="en">The bar is first lifted to the shoulders and then jerk
-                     it above the head and keep it there while maintaining straight legs</Definition>
+                     it above the head and keep it there while maintaining straight
+                     legs</Definition>
                   <Reference/>
                   <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
                   <ChangeVersionDate>2007-04-12</ChangeVersionDate>
@@ -6986,7 +7038,8 @@
          </Term>
          <Term termID="3.2.17.2">
             <Name xml:lang="en">Oval track</Name>
-            <Definition xml:lang="en">Pursuing an artificial rabbit around an oval track</Definition>
+            <Definition xml:lang="en">Pursuing an artificial rabbit around an oval
+               track</Definition>
             <Reference/>
             <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
             <ChangeVersionDate>2007-04-12</ChangeVersionDate>
@@ -6995,7 +7048,8 @@
       </Term>
       <Term termID="3.2.18">
          <Name xml:lang="en">Casting</Name>
-         <Definition xml:lang="en">Using fishing equipment to hit a target and score points</Definition>
+         <Definition xml:lang="en">Using fishing equipment to hit a target and score
+            points</Definition>
          <Reference/>
          <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
          <ChangeVersionDate>2007-04-12</ChangeVersionDate>
@@ -7012,7 +7066,8 @@
       <Term termID="3.2.20">
          <Name xml:lang="en">Modern Pentathlon</Name>
          <Definition xml:lang="en">The Modern Pentathlon comprises five events run over a single day
-            in the following order: shooting, fencing, swimming, horse riding and running.</Definition>
+            in the following order: shooting, fencing, swimming, horse riding and
+            running.</Definition>
          <Reference/>
          <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
          <ChangeVersionDate>2007-04-12</ChangeVersionDate>
@@ -7098,7 +7153,8 @@
       </Term>
       <Term termID="3.2.23">
          <Name xml:lang="en">Traditional Games</Name>
-         <Definition xml:lang="en">Intended for local use for specific traditional national games</Definition>
+         <Definition xml:lang="en">Intended for local use for specific traditional national
+            games</Definition>
          <Reference/>
          <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
          <ChangeVersionDate>2007-04-12</ChangeVersionDate>
@@ -7281,7 +7337,8 @@
          </Term>
          <Term termID="3.2.26.18">
             <Name xml:lang="en">World Cup</Name>
-            <Definition xml:lang="en">Sports meeting with competitors from the five continents</Definition>
+            <Definition xml:lang="en">Sports meeting with competitors from the five
+               continents</Definition>
             <Reference/>
             <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
             <ChangeVersionDate>2007-04-12</ChangeVersionDate>
@@ -7298,7 +7355,8 @@
          </Term>
          <Term termID="3.2.26.20">
             <Name xml:lang="en">Continental cup</Name>
-            <Definition xml:lang="en">Sports meeting where competitors come from a single continent</Definition>
+            <Definition xml:lang="en">Sports meeting where competitors come from a single
+               continent</Definition>
             <Reference/>
             <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
             <ChangeVersionDate>2007-04-12</ChangeVersionDate>
@@ -7306,7 +7364,8 @@
          </Term>
          <Term termID="3.2.26.21">
             <Name xml:lang="en">International cup</Name>
-            <Definition xml:lang="en">Sports meeting where competitors come from several nations</Definition>
+            <Definition xml:lang="en">Sports meeting where competitors come from several
+               nations</Definition>
             <Reference/>
             <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
             <ChangeVersionDate>2007-04-12</ChangeVersionDate>
@@ -7314,7 +7373,8 @@
          </Term>
          <Term termID="3.2.26.22">
             <Name xml:lang="en">National Cup</Name>
-            <Definition xml:lang="en">Sports meeting where competitors come from a single nation</Definition>
+            <Definition xml:lang="en">Sports meeting where competitors come from a single
+               nation</Definition>
             <Reference/>
             <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
             <ChangeVersionDate>2007-04-12</ChangeVersionDate>
@@ -7322,7 +7382,8 @@
          </Term>
          <Term termID="3.2.26.23">
             <Name xml:lang="en">Interregional cup</Name>
-            <Definition xml:lang="en">Sports meeting where competitors come from several regions</Definition>
+            <Definition xml:lang="en">Sports meeting where competitors come from several
+               regions</Definition>
             <Reference/>
             <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
             <ChangeVersionDate>2007-04-12</ChangeVersionDate>
@@ -7330,7 +7391,8 @@
          </Term>
          <Term termID="3.2.26.24">
             <Name xml:lang="en">Regional cup</Name>
-            <Definition xml:lang="en">Sports meeting where competitors come from a single region</Definition>
+            <Definition xml:lang="en">Sports meeting where competitors come from a single
+               region</Definition>
             <Reference/>
             <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
             <ChangeVersionDate>2007-04-12</ChangeVersionDate>
@@ -7400,7 +7462,8 @@
          </Term>
          <Term termID="3.2.26.33">
             <Name xml:lang="en">Intercontinental tournament</Name>
-            <Definition xml:lang="en">Tournament where competitors from several continents take part</Definition>
+            <Definition xml:lang="en">Tournament where competitors from several continents take
+               part</Definition>
             <Reference/>
             <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
             <ChangeVersionDate>2007-04-12</ChangeVersionDate>
@@ -7408,7 +7471,8 @@
          </Term>
          <Term termID="3.2.26.34">
             <Name xml:lang="en">Continental tournament</Name>
-            <Definition xml:lang="en">Tournament where competitors from a single continent take part</Definition>
+            <Definition xml:lang="en">Tournament where competitors from a single continent take
+               part</Definition>
             <Reference/>
             <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
             <ChangeVersionDate>2007-04-12</ChangeVersionDate>
@@ -7416,7 +7480,8 @@
          </Term>
          <Term termID="3.2.26.35">
             <Name xml:lang="en">International tournament</Name>
-            <Definition xml:lang="en">Tournament where competitors from several nations take part</Definition>
+            <Definition xml:lang="en">Tournament where competitors from several nations take
+               part</Definition>
             <Reference/>
             <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
             <ChangeVersionDate>2007-04-12</ChangeVersionDate>
@@ -7424,7 +7489,8 @@
          </Term>
          <Term termID="3.2.26.36">
             <Name xml:lang="en">National tournament</Name>
-            <Definition xml:lang="en">Tournament where competitors from a single nation take part</Definition>
+            <Definition xml:lang="en">Tournament where competitors from a single nation take
+               part</Definition>
             <Reference/>
             <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
             <ChangeVersionDate>2007-04-12</ChangeVersionDate>
@@ -7432,7 +7498,8 @@
          </Term>
          <Term termID="3.2.26.37">
             <Name xml:lang="en">Inter-nations competition</Name>
-            <Definition xml:lang="en">Tournament where athletes from several nations take part</Definition>
+            <Definition xml:lang="en">Tournament where athletes from several nations take
+               part</Definition>
             <Reference/>
             <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
             <ChangeVersionDate>2007-04-12</ChangeVersionDate>
@@ -7440,7 +7507,8 @@
          </Term>
          <Term termID="3.2.26.38">
             <Name xml:lang="en">Inter-clubs competition</Name>
-            <Definition xml:lang="en">Tournament where competitors from several clubs take part</Definition>
+            <Definition xml:lang="en">Tournament where competitors from several clubs take
+               part</Definition>
             <Reference/>
             <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
             <ChangeVersionDate>2007-04-12</ChangeVersionDate>
@@ -7456,7 +7524,8 @@
          </Term>
          <Term termID="3.2.26.40">
             <Name xml:lang="en">All-stars competition</Name>
-            <Definition xml:lang="en">Competition between teams made up of invited stars</Definition>
+            <Definition xml:lang="en">Competition between teams made up of invited
+               stars</Definition>
             <Reference/>
             <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
             <ChangeVersionDate>2007-04-12</ChangeVersionDate>
@@ -7472,7 +7541,8 @@
          </Term>
          <Term termID="3.2.26.42">
             <Name xml:lang="en">Super Bowl</Name>
-            <Definition xml:lang="en">The American football final that determines the champion</Definition>
+            <Definition xml:lang="en">The American football final that determines the
+               champion</Definition>
             <Reference/>
             <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
             <ChangeVersionDate>2007-04-12</ChangeVersionDate>
@@ -7480,7 +7550,8 @@
          </Term>
          <Term termID="3.2.26.43">
             <Name xml:lang="en">Paralympic games</Name>
-            <Definition xml:lang="en">Olympic style Games for athletes with a disability</Definition>
+            <Definition xml:lang="en">Olympic style Games for athletes with a
+               disability</Definition>
             <Reference/>
             <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
             <ChangeVersionDate>2007-04-12</ChangeVersionDate>
@@ -7512,14 +7583,15 @@
          </Term>
       </Term>
    </Term>
-   
-   
+
+
    <Term termID="3.4">
       <Name xml:lang="en">FICTION/DRAMA</Name>
       <Keyword xml:lang="en">FICTION</Keyword>
       <Keyword xml:lang="en">DRAMA</Keyword>
       <Definition xml:lang="en">Programme consisting of a prose or verse composition, resp. one
-         telling a story, written for or as if for performance by actors, puppets or animated</Definition>
+         telling a story, written for or as if for performance by actors, puppets or
+         animated</Definition>
       <Reference/>
       <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
       <ChangeVersionDate>2007-04-12</ChangeVersionDate>
@@ -7545,7 +7617,8 @@
          <ValidityFlag>1</ValidityFlag>
          <Term termID="3.4.2.1">
             <Name xml:lang="en">Soap opera</Name>
-            <Definition xml:lang="en">Episodic TV drama or saga, normally aired during daytime</Definition>
+            <Definition xml:lang="en">Episodic TV drama or saga, normally aired during
+               daytime</Definition>
             <Reference/>
             <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
             <ChangeVersionDate>2007-04-12</ChangeVersionDate>
@@ -7815,7 +7888,8 @@
       <Term termID="3.4.9">
          <Name xml:lang="en">Drama based on real events (docudrama)</Name>
          <Keyword xml:lang="en">docudrama</Keyword>
-         <Definition xml:lang="en">Drama based upon reality sometimes with documentary inserts</Definition>
+         <Definition xml:lang="en">Drama based upon reality sometimes with documentary
+            inserts</Definition>
          <Reference/>
          <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
          <ChangeVersionDate>2007-04-12</ChangeVersionDate>
@@ -7831,7 +7905,8 @@
       </Term>
       <Term termID="3.4.13">
          <Name xml:lang="en">Classical drama</Name>
-         <Definition xml:lang="en">Drama written before approximately 1918 e.g. Hamlet, Othello</Definition>
+         <Definition xml:lang="en">Drama written before approximately 1918 e.g. Hamlet,
+            Othello</Definition>
          <Reference/>
          <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
          <ChangeVersionDate>2007-04-12</ChangeVersionDate>
@@ -7839,7 +7914,8 @@
       </Term>
       <Term termID="3.4.14">
          <Name xml:lang="en">Period drama</Name>
-         <Definition xml:lang="en">Drama depicting events before 1918 e.g. Pride and Prejudice</Definition>
+         <Definition xml:lang="en">Drama depicting events before 1918 e.g. Pride and
+            Prejudice</Definition>
          <Reference/>
          <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
          <ChangeVersionDate>2007-04-12</ChangeVersionDate>
@@ -7931,8 +8007,8 @@
          <ValidityFlag>1</ValidityFlag>
       </Term>
    </Term>
-   
-   
+
+
    <Term termID="3.5">
       <Name xml:lang="en">AMUSEMENT/ENTERTAINMENT</Name>
       <Keyword xml:lang="en">AMUSEMENT</Keyword>
@@ -7984,7 +8060,8 @@
          <ValidityFlag>1</ValidityFlag>
          <Term termID="3.5.3.1">
             <Name xml:lang="en">Cabaret</Name>
-            <Definition xml:lang="en">Specific instance of Variety in an intimate environment</Definition>
+            <Definition xml:lang="en">Specific instance of Variety in an intimate
+               environment</Definition>
             <Reference/>
             <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
             <ChangeVersionDate>2007-04-12</ChangeVersionDate>
@@ -8010,7 +8087,8 @@
       </Term>
       <Term termID="3.5.4">
          <Name xml:lang="en">Surprise</Name>
-         <Definition xml:lang="en">Programme of 'dream comes true' type e.g. Jim'llFix It</Definition>
+         <Definition xml:lang="en">Programme of 'dream comes true' type e.g. Jim'llFix
+            It</Definition>
          <Reference/>
          <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
          <ChangeVersionDate>2007-04-12</ChangeVersionDate>
@@ -8034,7 +8112,8 @@
          <Term termID="3.5.7.1">
             <Name xml:lang="en">Broken comedy</Name>
             <Definition xml:lang="en">Humorous and/or satirical programme consisting of short
-               dramatical sequences, sketches, performed by comedians e,g, Benny Hill, Monty Python</Definition>
+               dramatical sequences, sketches, performed by comedians e,g, Benny Hill, Monty
+               Python</Definition>
             <Reference/>
             <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
             <ChangeVersionDate>2007-04-12</ChangeVersionDate>
@@ -8276,7 +8355,8 @@
       </Term>
       <Term termID="3.5.16">
          <Name xml:lang="en">Chat</Name>
-         <Definition xml:lang="en">Chat Show in which a presenter interviews a celebrity</Definition>
+         <Definition xml:lang="en">Chat Show in which a presenter interviews a
+            celebrity</Definition>
          <Reference/>
          <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
          <ChangeVersionDate>2007-04-12</ChangeVersionDate>
@@ -8291,18 +8371,18 @@
          <ValidityFlag>1</ValidityFlag>
       </Term>
    </Term>
-   
-   
+
+
    <Term termID="3.6">
       <Name xml:lang="en">MUSIC</Name>
       <Definition xml:lang="en">Expressing emotion or message through instruments or voice using
          different sounds, tones, harmonies and the like</Definition>
       <Reference/>
-      
+
       <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
       <ChangeVersionDate>2007-04-12</ChangeVersionDate>
       <ValidityFlag>1</ValidityFlag>
-      <Link  xml:lang="en">
+      <Link xml:lang="en">
          <URL>http://en.wikipedia.org/wiki/List_of_popular_music_genres</URL>
          <LinkName>Wikipedia - List of popular music genres</LinkName>
       </Link>
@@ -8329,7 +8409,8 @@
          <ValidityFlag>1</ValidityFlag>
          <Term termID="3.6.1.1">
             <Name xml:lang="en">Early</Name>
-            <Definition xml:lang="en">Music written before the middle of the 17th Century</Definition>
+            <Definition xml:lang="en">Music written before the middle of the 17th
+               Century</Definition>
             <Reference/>
             <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
             <ChangeVersionDate>2007-04-12</ChangeVersionDate>
@@ -8434,7 +8515,8 @@
          </Term>
          <Term termID="3.6.1.13">
             <Name xml:lang="en">Vocal</Name>
-            <Definition xml:lang="en">Solo or individual singing, inc. a capella interpretation</Definition>
+            <Definition xml:lang="en">Solo or individual singing, inc. a capella
+               interpretation</Definition>
             <Reference/>
             <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
             <ChangeVersionDate>2007-04-12</ChangeVersionDate>
@@ -8503,7 +8585,8 @@
          <Name xml:lang="en">Jazz</Name>
          <Definition xml:lang="en">Indigenous American popular music, born in New Orleans of African
             slaves social circumstances. The jazz idiom is characterized by certain syncopations
-            over strongly reiterated rhythms in which improvisation plays an important part</Definition>
+            over strongly reiterated rhythms in which improvisation plays an important
+            part</Definition>
          <Reference/>
          <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
          <ChangeVersionDate>2007-04-12</ChangeVersionDate>
@@ -8545,7 +8628,8 @@
             <Keyword xml:lang="en">Hard bop</Keyword>
             <Keyword xml:lang="en">Bebop</Keyword>
             <Keyword xml:lang="en">Postbop</Keyword>
-            <Definition xml:lang="en">e.g. Sonny Rollings, Oscar Peterson, J. Coltrane, T. Monk</Definition>
+            <Definition xml:lang="en">e.g. Sonny Rollings, Oscar Peterson, J. Coltrane, T.
+               Monk</Definition>
             <Reference/>
             <ChangeComment>Duplication, changed in 3.6.2.11</ChangeComment>
             <ChangeVersionDate>2008-08-20</ChangeVersionDate>
@@ -8616,7 +8700,8 @@
             <Keyword xml:lang="en">Hard bop</Keyword>
             <Keyword xml:lang="en">Bebop</Keyword>
             <Keyword xml:lang="en">Postbop</Keyword>
-            <Definition xml:lang="en">e.g. Sonny Rollings, Oscar Peterson, J. Coltrane, T. Monk</Definition>
+            <Definition xml:lang="en">e.g. Sonny Rollings, Oscar Peterson, J. Coltrane, T.
+               Monk</Definition>
             <Reference/>
             <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
             <ChangeVersionDate>2007-04-12</ChangeVersionDate>
@@ -9008,14 +9093,16 @@
             </Term>
             <Term termID="3.6.4.14.2">
                <Name xml:lang="en">Metal</Name>
-               <Definition xml:lang="en">inc. Heavy Metal e.g. Iron Maiden and Trash Metal</Definition>
+               <Definition xml:lang="en">inc. Heavy Metal e.g. Iron Maiden and Trash
+                  Metal</Definition>
                <Reference/>
                <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
                <ChangeVersionDate>2007-04-12</ChangeVersionDate>
                <ValidityFlag>1</ValidityFlag>
                <Term termID="3.6.4.14.2.1">
                   <Name xml:lang="en">Death Metal</Name>
-                  <Definition xml:lang="en">inc. Heavy Metal e.g. Iron Maiden and Trash Metal</Definition>
+                  <Definition xml:lang="en">inc. Heavy Metal e.g. Iron Maiden and Trash
+                     Metal</Definition>
                   <Reference/>
                   <ChangeComment>Correction</ChangeComment>
                   <ChangeVersionDate>2009-07-23</ChangeVersionDate>
@@ -9023,7 +9110,8 @@
                </Term>
                <Term termID="3.6.4.14.2.2">
                   <Name xml:lang="en">Heavy Metal</Name>
-                  <Definition xml:lang="en">inc. Heavy Metal e.g. Iron Maiden and Trash Metal</Definition>
+                  <Definition xml:lang="en">inc. Heavy Metal e.g. Iron Maiden and Trash
+                     Metal</Definition>
                   <Reference/>
                   <ChangeComment>Mapping to ID3</ChangeComment>
                   <ChangeVersionDate>2009-07-23</ChangeVersionDate>
@@ -9031,7 +9119,8 @@
                </Term>
                <Term termID="3.6.4.14.2.3">
                   <Name xml:lang="en">Black Metal</Name>
-                  <Definition xml:lang="en">inc. Heavy Metal e.g. Iron Maiden and Trash Metal</Definition>
+                  <Definition xml:lang="en">inc. Heavy Metal e.g. Iron Maiden and Trash
+                     Metal</Definition>
                   <Reference/>
                   <ChangeComment>Mapping to ID3</ChangeComment>
                   <ChangeVersionDate>2009-07-23</ChangeVersionDate>
@@ -9039,7 +9128,8 @@
                </Term>
                <Term termID="3.6.4.14.2.4">
                   <Name xml:lang="en">Trash Metal</Name>
-                  <Definition xml:lang="en">inc. Heavy Metal e.g. Iron Maiden and Trash Metal</Definition>
+                  <Definition xml:lang="en">inc. Heavy Metal e.g. Iron Maiden and Trash
+                     Metal</Definition>
                   <Reference/>
                   <ChangeComment>Mapping to ID3</ChangeComment>
                   <ChangeVersionDate>2009-07-23</ChangeVersionDate>
@@ -9304,8 +9394,8 @@
          </Term>
          <Term termID="3.6.5.5">
             <Name xml:lang="en">Rhythm and Blues</Name>
-            <Definition xml:lang="en">1960s (eg. The Rolling Stones) not 1990s R&amp;B (eg.
-               Teddy Riley).</Definition>
+            <Definition xml:lang="en">1960s (eg. The Rolling Stones) not 1990s R&amp;B (eg. Teddy
+               Riley).</Definition>
             <Reference/>
             <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
             <ChangeVersionDate>2007-04-12</ChangeVersionDate>
@@ -10437,8 +10527,8 @@
          <ValidityFlag>1</ValidityFlag>
       </Term>
    </Term>
-   
-   
+
+
    <Term termID="3.7">
       <Name xml:lang="en">INTERACTIVE GAMES</Name>
       <Definition/>
@@ -10641,8 +10731,8 @@
          <ValidityFlag>1</ValidityFlag>
       </Term>
    </Term>
-   
-   
+
+
    <Term termID="3.8">
       <Name xml:lang="en">LEISURE/HOBBY/LIFESTYLE</Name>
       <Keyword xml:lang="en">LEISURE</Keyword>
@@ -10677,8 +10767,8 @@
             <ValidityFlag>1</ValidityFlag>
             <Term termID="3.8.1.2.1">
                <Name xml:lang="en">Personal finance</Name>
-               <Definition xml:lang="en">Advice and information for individual consumers concerning financial products and services.
-               </Definition>
+               <Definition xml:lang="en">Advice and information for individual consumers concerning
+                  financial products and services. </Definition>
                <ChangeComment>TVA-Maintenance 2011</ChangeComment>
                <ChangeVersionDate>2011-10-12</ChangeVersionDate>
                <ValidityFlag>1</ValidityFlag>
@@ -11196,14 +11286,6 @@
                <ValidityFlag>1</ValidityFlag>
             </Term>
          </Term>
-         <Term termID="3.8.9.3.1">
-            <Name xml:lang="en">Outdoor hunting</Name>
-            <Definition xml:lang="en"/>
-            <Reference/>
-            <ChangeComment>Removed duplicate term</ChangeComment>
-            <ChangeVersionDate>2007-04-12</ChangeVersionDate>
-            <ValidityFlag>0</ValidityFlag>
-         </Term>
          <Term termID="3.8.9.4">
             <Name xml:lang="en">Casino and gambling</Name>
             <Definition xml:lang="en">The business of providing outlets for various games of chance
@@ -11215,7 +11297,8 @@
          </Term>
          <Term termID="3.8.9.5">
             <Name xml:lang="en">Hotel and accommodation</Name>
-            <Definition xml:lang="en">The business of providing food and shelter to travellers</Definition>
+            <Definition xml:lang="en">The business of providing food and shelter to
+               travellers</Definition>
             <Reference/>
             <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
             <ChangeVersionDate>2007-04-12</ChangeVersionDate>
@@ -11249,8 +11332,8 @@
          </Term>
       </Term>
    </Term>
-   
-   
+
+
    <Term termID="3.9">
       <Name xml:lang="en">ADULT</Name>
       <Definition/>

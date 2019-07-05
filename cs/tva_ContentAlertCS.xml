@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ClassificationScheme uri="urn:tva:metadata-cs:ContentAlertCS" versionDate="2013-01-07">
-   
-        <!-- #####################################################################
+<ClassificationScheme uri="urn:tva:metadata-cs:ContentAlertCS" versionDate="2019-04-26">
+
+   <!-- #####################################################################
 	     CONTENT ALERT
 	     Definition: A list of content alert messages 
 	     ##################################################################### -->
-   
-   
+
+
    <Alias>TVA_ContentAlert</Alias>
-   
+
    <Link xml:lang="en">
       <URL>http://www.etsi.org</URL>
       <LinkName>etsi</LinkName>
    </Link>
-   
-   
-   
+
+
+
    <Term termID="6.0">
       <Name xml:lang="en">ALERT NOT REQUIRED</Name>
       <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
@@ -30,8 +30,8 @@
          <DeprecatedVersionDate/>
       </Term>
    </Term>
-   
-   
+
+
    <Term termID="6.1">
       <Name xml:lang="en">SEX</Name>
       <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
@@ -66,21 +66,24 @@
          <ValidityFlag>1</ValidityFlag>
          <DeprecatedVersionDate/>
          <Term termID="6.1.4.1">
-            <Name xml:lang="en">One scene of explicit sexual behaviour suitable for adults only</Name>
+            <Name xml:lang="en">One scene of explicit sexual behaviour suitable for adults
+               only</Name>
             <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
             <ChangeVersionDate>2007-04-12</ChangeVersionDate>
             <ValidityFlag>1</ValidityFlag>
             <DeprecatedVersionDate/>
          </Term>
          <Term termID="6.1.4.2">
-            <Name xml:lang="en">Occasional scenes of explicit sexual behaviour suitable for adults only</Name>
+            <Name xml:lang="en">Occasional scenes of explicit sexual behaviour suitable for adults
+               only</Name>
             <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
             <ChangeVersionDate>2007-04-12</ChangeVersionDate>
             <ValidityFlag>1</ValidityFlag>
             <DeprecatedVersionDate/>
          </Term>
          <Term termID="6.1.4.3">
-            <Name xml:lang="en">Frequent scenes of explicit sexual behaviour suitable for adults only</Name>
+            <Name xml:lang="en">Frequent scenes of explicit sexual behaviour suitable for adults
+               only</Name>
             <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
             <ChangeVersionDate>2007-04-12</ChangeVersionDate>
             <ValidityFlag>1</ValidityFlag>
@@ -144,8 +147,8 @@
          </Term>
       </Term>
    </Term>
-   
-   
+
+
    <Term termID="6.2">
       <Name xml:lang="en">NUDITY</Name>
       <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
@@ -216,8 +219,8 @@
          </Term>
       </Term>
    </Term>
-   
-   
+
+
    <Term termID="6.3">
       <Name xml:lang="en">VIOLENCE - HUMAN BEINGS</Name>
       <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
@@ -233,14 +236,16 @@
       </Term>
       <Term termID="6.3.2">
          <Name xml:lang="en">Deliberate infliction of pain to human beings</Name>
-         <Definition xml:lang="en">Mild psychological or physical violence to human beings (psychological pressure, punching, slapping, knocking down.)</Definition>
+         <Definition xml:lang="en">Mild psychological or physical violence to human beings
+            (psychological pressure, punching, slapping, knocking down.)</Definition>
          <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
          <ChangeVersionDate>2007-04-12</ChangeVersionDate>
          <ValidityFlag>1</ValidityFlag>
          <DeprecatedVersionDate/>
          <Term termID="6.3.2.1">
             <Name xml:lang="en">One Scene of deliberate infliction of pain to human beings</Name>
-            <Definition xml:lang="en">Mild psychological or physical violence to human beings (psychological pressure, punching, slapping, knocking down.)</Definition>
+            <Definition xml:lang="en">Mild psychological or physical violence to human beings
+               (psychological pressure, punching, slapping, knocking down.)</Definition>
             <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
             <ChangeVersionDate>2007-04-12</ChangeVersionDate>
             <ValidityFlag>1</ValidityFlag>
@@ -248,7 +253,8 @@
          </Term>
          <Term termID="6.3.2.2">
             <Name xml:lang="en">Occasional deliberate infliction of pain to human beings</Name>
-            <Definition xml:lang="en">Mild psychological or physical violence to human beings (psychological pressure, punching, slapping, knocking down.)</Definition>
+            <Definition xml:lang="en">Mild psychological or physical violence to human beings
+               (psychological pressure, punching, slapping, knocking down.)</Definition>
             <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
             <ChangeVersionDate>2007-04-12</ChangeVersionDate>
             <ValidityFlag>1</ValidityFlag>
@@ -256,7 +262,8 @@
          </Term>
          <Term termID="6.3.2.3">
             <Name xml:lang="en">Frequent deliberate infliction of pain to human beings</Name>
-            <Definition xml:lang="en">Mild psychological or physical violence to human beings (psychological pressure, punching, slapping, knocking down.)</Definition>
+            <Definition xml:lang="en">Mild psychological or physical violence to human beings
+               (psychological pressure, punching, slapping, knocking down.)</Definition>
             <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
             <ChangeVersionDate>2007-04-12</ChangeVersionDate>
             <ValidityFlag>1</ValidityFlag>
@@ -264,31 +271,39 @@
          </Term>
       </Term>
       <Term termID="6.3.3">
-         <Name xml:lang="en">Infliction of strong psychological or physical pain to human beings</Name>
-         <Definition xml:lang="en">(heavy intimidation, torture, bloody scenes, accidental killing of human beings)</Definition>
+         <Name xml:lang="en">Infliction of strong psychological or physical pain to human
+            beings</Name>
+         <Definition xml:lang="en">(heavy intimidation, torture, bloody scenes, accidental killing
+            of human beings)</Definition>
          <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
          <ChangeVersionDate>2007-04-12</ChangeVersionDate>
          <ValidityFlag>1</ValidityFlag>
          <DeprecatedVersionDate/>
          <Term termID="6.3.3.1">
-            <Name xml:lang="en">One scene of infliction of strong psychological or physical pain to human beings</Name>
-            <Definition xml:lang="en">(heavy intimidation, torture, bloody scenes, accidental killing of human beings)</Definition>
+            <Name xml:lang="en">One scene of infliction of strong psychological or physical pain to
+               human beings</Name>
+            <Definition xml:lang="en">(heavy intimidation, torture, bloody scenes, accidental
+               killing of human beings)</Definition>
             <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
             <ChangeVersionDate>2007-04-12</ChangeVersionDate>
             <ValidityFlag>1</ValidityFlag>
             <DeprecatedVersionDate/>
          </Term>
          <Term termID="6.3.3.2">
-            <Name xml:lang="en">Occasional scenes of infliction of strong psychological or physical pain to human beings</Name>
-            <Definition xml:lang="en">(heavy intimidation, torture, bloody scenes, accidental killing of human beings)</Definition>
+            <Name xml:lang="en">Occasional scenes of infliction of strong psychological or physical
+               pain to human beings</Name>
+            <Definition xml:lang="en">(heavy intimidation, torture, bloody scenes, accidental
+               killing of human beings)</Definition>
             <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
             <ChangeVersionDate>2007-04-12</ChangeVersionDate>
             <ValidityFlag>1</ValidityFlag>
             <DeprecatedVersionDate/>
          </Term>
          <Term termID="6.3.3.3">
-            <Name xml:lang="en">Frequent scenes of infliction of strong psychological or physical pain to human beings</Name>
-            <Definition xml:lang="en">(heavy intimidation, torture, bloody scenes, accidental killing of human beings)</Definition>
+            <Name xml:lang="en">Frequent scenes of infliction of strong psychological or physical
+               pain to human beings</Name>
+            <Definition xml:lang="en">(heavy intimidation, torture, bloody scenes, accidental
+               killing of human beings)</Definition>
             <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
             <ChangeVersionDate>2007-04-12</ChangeVersionDate>
             <ValidityFlag>1</ValidityFlag>
@@ -324,8 +339,8 @@
          </Term>
       </Term>
    </Term>
-   
-   
+
+
    <Term termID="6.4">
       <Name xml:lang="en">VIOLENCE - ANIMALS</Name>
       <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
@@ -389,15 +404,15 @@
          </Term>
          <Term termID="6.4.3.3">
             <Name xml:lang="en">Frequent deliberate killing of animals</Name>
-            <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
-            <ChangeVersionDate>2007-04-12</ChangeVersionDate>
+            <ChangeComment>Correct termId from 6.4.3.1 into 6.4.3.3</ChangeComment>
+            <ChangeVersionDate>2019-06-24</ChangeVersionDate>
             <ValidityFlag>1</ValidityFlag>
             <DeprecatedVersionDate/>
          </Term>
       </Term>
    </Term>
-   
-   
+
+
    <Term termID="6.5">
       <Name xml:lang="en">VIOLENCE - FANTASY CHARACTERS</Name>
       <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
@@ -412,27 +427,31 @@
          <DeprecatedVersionDate/>
       </Term>
       <Term termID="6.5.2">
-         <Name xml:lang="en">Deliberate infliction of pain to fantasy characters (including animation)</Name>
+         <Name xml:lang="en">Deliberate infliction of pain to fantasy characters (including
+            animation)</Name>
          <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
          <ChangeVersionDate>2007-04-12</ChangeVersionDate>
          <ValidityFlag>1</ValidityFlag>
          <DeprecatedVersionDate/>
          <Term termID="6.5.2.1">
-            <Name xml:lang="en">One scene of deliberate infliction of pain to fantasy characters (including animation)</Name>
+            <Name xml:lang="en">One scene of deliberate infliction of pain to fantasy characters
+               (including animation)</Name>
             <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
             <ChangeVersionDate>2007-04-12</ChangeVersionDate>
             <ValidityFlag>1</ValidityFlag>
             <DeprecatedVersionDate/>
          </Term>
          <Term termID="6.5.2.2">
-            <Name xml:lang="en">Occasional deliberate infliction of pain to fantasy characters (including animation)</Name>
+            <Name xml:lang="en">Occasional deliberate infliction of pain to fantasy characters
+               (including animation)</Name>
             <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
             <ChangeVersionDate>2007-04-12</ChangeVersionDate>
             <ValidityFlag>1</ValidityFlag>
             <DeprecatedVersionDate/>
          </Term>
          <Term termID="6.5.2.3">
-            <Name xml:lang="en">Frequent deliberate infliction of pain to fantasy characters (including animation)</Name>
+            <Name xml:lang="en">Frequent deliberate infliction of pain to fantasy characters
+               (including animation)</Name>
             <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
             <ChangeVersionDate>2007-04-12</ChangeVersionDate>
             <ValidityFlag>1</ValidityFlag>
@@ -446,21 +465,24 @@
          <ValidityFlag>1</ValidityFlag>
          <DeprecatedVersionDate/>
          <Term termID="6.5.3.1">
-            <Name xml:lang="en">One scene of deliberate killing of fantasy characters (including animation)</Name>
+            <Name xml:lang="en">One scene of deliberate killing of fantasy characters (including
+               animation)</Name>
             <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
             <ChangeVersionDate>2007-04-12</ChangeVersionDate>
             <ValidityFlag>1</ValidityFlag>
             <DeprecatedVersionDate/>
          </Term>
          <Term termID="6.5.3.2">
-            <Name xml:lang="en">Occasional deliberate killing of fantasy characters (including animation)</Name>
+            <Name xml:lang="en">Occasional deliberate killing of fantasy characters (including
+               animation)</Name>
             <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
             <ChangeVersionDate>2007-04-12</ChangeVersionDate>
             <ValidityFlag>1</ValidityFlag>
             <DeprecatedVersionDate/>
          </Term>
          <Term termID="6.5.3.3">
-            <Name xml:lang="en">Frequent deliberate killing of fantasy characters (including animation)</Name>
+            <Name xml:lang="en">Frequent deliberate killing of fantasy characters (including
+               animation)</Name>
             <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
             <ChangeVersionDate>2007-04-12</ChangeVersionDate>
             <ValidityFlag>1</ValidityFlag>
@@ -468,8 +490,8 @@
          </Term>
       </Term>
    </Term>
-   
-   
+
+
    <Term termID="6.6">
       <Name xml:lang="en">LANGUAGE</Name>
       <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
@@ -540,7 +562,8 @@
          <DeprecatedVersionDate/>
       </Term>
       <Term termID="6.6.10">
-         <Name xml:lang="en">Occasional use of offensive language (racist, homophobic, sexist)</Name>
+         <Name xml:lang="en">Occasional use of offensive language (racist, homophobic,
+            sexist)</Name>
          <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
          <ChangeVersionDate>2007-04-12</ChangeVersionDate>
          <ValidityFlag>1</ValidityFlag>
@@ -561,8 +584,8 @@
          <DeprecatedVersionDate/>
       </Term>
    </Term>
-   
-   
+
+
    <Term termID="6.7">
       <Name xml:lang="en">DISTURBING SCENES</Name>
       <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
@@ -577,21 +600,24 @@
          <DeprecatedVersionDate/>
       </Term>
       <Term termID="6.7.2">
-         <Name xml:lang="en">Factual material that may cause distress, including verbal descriptions of traumatic events and the telling of sensitive human interest stories.</Name>
+         <Name xml:lang="en">Factual material that may cause distress, including verbal descriptions
+            of traumatic events and the telling of sensitive human interest stories.</Name>
          <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
          <ChangeVersionDate>2007-04-12</ChangeVersionDate>
          <ValidityFlag>1</ValidityFlag>
          <DeprecatedVersionDate/>
       </Term>
       <Term termID="6.7.3">
-         <Name xml:lang="en">Mild scenes of blood and gore (including medical procedures, injuries from accidents, terrorists attack, murder, disaster, war)</Name>
+         <Name xml:lang="en">Mild scenes of blood and gore (including medical procedures, injuries
+            from accidents, terrorists attack, murder, disaster, war)</Name>
          <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
          <ChangeVersionDate>2007-04-12</ChangeVersionDate>
          <ValidityFlag>1</ValidityFlag>
          <DeprecatedVersionDate/>
          <Term termID="6.7.3.1">
             <Name xml:lang="en">One mild scene of blood and gore</Name>
-            <Definition xml:lang="en">(including medical procedures, injuries from accidents, terrorists attack, murder, disaster, war)</Definition>
+            <Definition xml:lang="en">(including medical procedures, injuries from accidents,
+               terrorists attack, murder, disaster, war)</Definition>
             <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
             <ChangeVersionDate>2007-04-12</ChangeVersionDate>
             <ValidityFlag>1</ValidityFlag>
@@ -599,7 +625,8 @@
          </Term>
          <Term termID="6.7.3.2">
             <Name xml:lang="en">Occasional mild scenes of blood and gore</Name>
-            <Definition xml:lang="en">(including medical procedures, injuries from accidents, terrorists attack, murder, disaster, war)</Definition>
+            <Definition xml:lang="en">(including medical procedures, injuries from accidents,
+               terrorists attack, murder, disaster, war)</Definition>
             <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
             <ChangeVersionDate>2007-04-12</ChangeVersionDate>
             <ValidityFlag>1</ValidityFlag>
@@ -607,7 +634,8 @@
          </Term>
          <Term termID="6.7.3.3">
             <Name xml:lang="en">Frequent mild scenes of blood and gore</Name>
-            <Definition xml:lang="en">(including medical procedures, injuries from accidents, terrorists attack, murder, disaster, war)</Definition>
+            <Definition xml:lang="en">(including medical procedures, injuries from accidents,
+               terrorists attack, murder, disaster, war)</Definition>
             <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
             <ChangeVersionDate>2007-04-12</ChangeVersionDate>
             <ValidityFlag>1</ValidityFlag>
@@ -671,8 +699,8 @@
          </Term>
       </Term>
    </Term>
-   
-   
+
+
    <Term termID="6.8">
       <Name xml:lang="en">DISCRIMINATION</Name>
       <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
@@ -687,16 +715,18 @@
          <DeprecatedVersionDate/>
       </Term>
       <Term termID="6.8.2">
-         <Name xml:lang="en">Deliberate discrimination or the portrayal of deliberate discrimination</Name>
-         <Definition xml:lang="en">(including discrimination on the basis of gender, sexual orientation, race, religion, colour, nationality or ethnic background)</Definition>
+         <Name xml:lang="en">Deliberate discrimination or the portrayal of deliberate
+            discrimination</Name>
+         <Definition xml:lang="en">(including discrimination on the basis of gender, sexual
+            orientation, race, religion, colour, nationality or ethnic background)</Definition>
          <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
          <ChangeVersionDate>2007-04-12</ChangeVersionDate>
          <ValidityFlag>1</ValidityFlag>
          <DeprecatedVersionDate/>
       </Term>
    </Term>
-   
-   
+
+
    <Term termID="6.9">
       <Name xml:lang="en">ILLEGAL DRUGS</Name>
       <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
@@ -752,14 +782,16 @@
             <DeprecatedVersionDate/>
          </Term>
          <Term termID="6.9.3.2">
-            <Name xml:lang="en">Occasional portrayal of illegal drug use with instructive detail</Name>
+            <Name xml:lang="en">Occasional portrayal of illegal drug use with instructive
+               detail</Name>
             <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
             <ChangeVersionDate>2007-04-12</ChangeVersionDate>
             <ValidityFlag>1</ValidityFlag>
             <DeprecatedVersionDate/>
          </Term>
          <Term termID="6.9.3.3">
-            <Name xml:lang="en">Frequent portrayal of illegal drug use with instructive detail</Name>
+            <Name xml:lang="en">Frequent portrayal of illegal drug use with instructive
+               detail</Name>
             <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
             <ChangeVersionDate>2007-04-12</ChangeVersionDate>
             <ValidityFlag>1</ValidityFlag>
@@ -767,8 +799,8 @@
          </Term>
       </Term>
    </Term>
-   
-   
+
+
    <Term termID="6.10">
       <Name xml:lang="en">STROBING</Name>
       <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
@@ -783,27 +815,31 @@
          <DeprecatedVersionDate/>
       </Term>
       <Term termID="6.10.2">
-         <Name xml:lang="en">Strobing that could impact on those suffering from Photosensitive epilepsy</Name>
+         <Name xml:lang="en">Strobing that could impact on those suffering from Photosensitive
+            epilepsy</Name>
          <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
          <ChangeVersionDate>2007-04-12</ChangeVersionDate>
          <ValidityFlag>1</ValidityFlag>
          <DeprecatedVersionDate/>
          <Term termID="6.10.2.1">
-            <Name xml:lang="en">One scene of strobing that could impact on those suffering from photosensitive epilepsy</Name>
+            <Name xml:lang="en">One scene of strobing that could impact on those suffering from
+               photosensitive epilepsy</Name>
             <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
             <ChangeVersionDate>2007-04-12</ChangeVersionDate>
             <ValidityFlag>1</ValidityFlag>
             <DeprecatedVersionDate/>
          </Term>
          <Term termID="6.10.2.2">
-            <Name xml:lang="en">Occasional strobing that could impact on those suffering from photosensitive epilepsy</Name>
+            <Name xml:lang="en">Occasional strobing that could impact on those suffering from
+               photosensitive epilepsy</Name>
             <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
             <ChangeVersionDate>2007-04-12</ChangeVersionDate>
             <ValidityFlag>1</ValidityFlag>
             <DeprecatedVersionDate/>
          </Term>
          <Term termID="6.10.2.3">
-            <Name xml:lang="en">Frequent strobing that could impact on those suffering from photosensitive epilepsy</Name>
+            <Name xml:lang="en">Frequent strobing that could impact on those suffering from
+               photosensitive epilepsy</Name>
             <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
             <ChangeVersionDate>2007-04-12</ChangeVersionDate>
             <ValidityFlag>1</ValidityFlag>
