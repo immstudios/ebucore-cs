@@ -6532,6 +6532,14 @@
             <ChangeVersionDate>2007-04-12</ChangeVersionDate>
             <ValidityFlag>1</ValidityFlag>
          </Term>
+         <Term termID="3.2.12.13">
+            <Name xml:lang="en">Obstacle Course Racing</Name>
+            <Definition>A race during which competitors have to pass obstacles of varying difficulty. Time is an additional ranking factor for competitors who have successfully passed all obstacles.</Definition>
+            <Reference/>
+            <ChangeComment></ChangeComment>
+            <ChangeVersionDate>2019-10-10</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+         </Term>
          <Term termID="3.2.13">
             <Name xml:lang="en">Strength-based sports</Name>
             <Definition/>
