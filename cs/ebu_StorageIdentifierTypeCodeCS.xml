@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ClassificationScheme uri="urn:ebu:metadata-cs:StorageIdentifierTypeCodeCS_2008">
+<ClassificationScheme uri="urn:ebu:metadata-cs:StorageIdentifierTypeCodeCS" versionDate="2020-01-14">
    
    <!-- #####################################################################
           STORAGE IDENTIFIER TYPE CODE                                        

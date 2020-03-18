@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ClassificationScheme uri="urn:ebu:metadata-cs:FileFormatCS_2010">
+<ClassificationScheme uri="urn:ebu:metadata-cs:FileFormatCS" versionDate="2020-01-14">
    <!-- #####################################################################
          FILE FORMAT 
          Definition: Main file formats met in broadcasting

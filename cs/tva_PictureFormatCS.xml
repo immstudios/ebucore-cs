@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ClassificationScheme uri="urn:tva:metadata:cs:PictureFormatCS:2015">
+<ClassificationScheme uri="urn:tva:metadata:cs:PictureFormatCS" versionDate="2020-01-14">
 	<!-- #####################################################################                          -->
 	<!-- PICTURE FORMAT	                                                                            -->
 	<!-- Definition: This dimension is used to classify programmes according to their picture format.   -->
