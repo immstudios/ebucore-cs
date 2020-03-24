@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ClassificationScheme uri="urn:ebu:metadata-cs:EditorialFormatCodeCS" versionDate="2019-06-24">
+<ClassificationScheme uri="urn:ebu:metadata-cs:EditorialFormatCodeCS" versionDate="2020-03-30">
 
    <!-- #####################################################################
 		 EDITORIAL FORMAT CODE   
@@ -188,6 +188,34 @@
          <ChangeComment>First version after conversion of P/META into XML</ChangeComment>
          <ChangeVersionDate>2007-04-12</ChangeVersionDate>
          <ValidityFlag>1</ValidityFlag>
+      </Term>
+      <Term termID="2.1.13">
+         <Name xml:lang="en">Highlights</Name>
+         <Definition xml:lang="en"> A summary or edited version made of a set of selected highlights e.g. sport highlights made of key actions in a football game..</Definition>
+         <ChangeComment>Change request received from the community of implementers</ChangeComment>
+         <ChangeVersionDate>2020-03-30</ChangeVersionDate>
+         <ValidityFlag>1</ValidityFlag>
+         <Term termID="2.1.13.1">
+            <Name xml:lang="en">Short Highlights</Name>
+            <Definition xml:lang="en"> A short summary  or edited version made of a set of selected highlights e.g. sport highlights made of most significant key actions (e.g. goals) in a football game..</Definition>
+            <ChangeComment>Change request received from the community of implementers</ChangeComment>
+            <ChangeVersionDate>2020-03-30</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+         </Term>
+         <Term termID="2.1.13.2">
+            <Name xml:lang="en">Medium Highlights</Name>
+            <Definition xml:lang="en"> A medium summary or edited version made of a set of selected highlights e.g. sport highlights made of most significant key actions (e.g. goals and corners and penalties) in a football game..</Definition>
+            <ChangeComment>Change request received from the community of implementers</ChangeComment>
+            <ChangeVersionDate>2020-03-30</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+         </Term>
+         <Term termID="2.1.13.3">
+            <Name xml:lang="en">Long Highlights</Name>
+            <Definition xml:lang="en"> A long summary  or edited version made of a set of selected highlights e.g. sport highlights made of most significant key actions (e.g. goals and corners and penalties and red/yellow cards, etc.) in a football game..</Definition>
+            <ChangeComment>Change request received from the community of implementers</ChangeComment>
+            <ChangeVersionDate>2020-03-30</ChangeVersionDate>
+            <ValidityFlag>1</ValidityFlag>
+         </Term>
       </Term>
    </Term>
 
